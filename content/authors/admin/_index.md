@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lee
+title: Leee
 
 # Name pronunciation (optional)
 name_pronunciation: Chien Shiung Wu
