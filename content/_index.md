@@ -1,86 +1,32 @@
 ---
-# Leave the homepage title empty to use the site title
-title:
-date: 2022-10-24
+title: 'Home'
+date: 2023-10-24
 type: landing
-
+design:
+  background:
+    image:
+      # Add your image background to `assets/media/`.
+      filename: bg-hue.svg
 sections:
-  - block: about.avatar
-    id: about
+  - block: resume-biography
     content:
-      # Choose a user profile to display (a folder name within `content/authors/`)
+      # The user's folder name in content/authors/
       username: admin
-  - block: experience
-    id: experience
-    content:
-      title: Experience
-      # Date format for experience
-      #   Refer to https://wowchemy.com/docs/customization/#date-format
-      date_format: Jan 2006
-      # Experiences.
-      #   Add/remove as many `experience` items below as you like.
-      #   Required fields are `title`, `company`, and `date_start`.
-      #   Leave `date_end` empty if it's your current employer.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-  - block: portfolio
-    id: projects
-    content:
-      title: Projects
-      filters:
-        folders:
-          - project
     design:
-      # Choose how many columns the section has. Valid values: '1' or '2'.
-      columns: '1'
-      view: showcase
-      # For Showcase view, flip alternate rows?
-      flip_alt_rows: false
-  - block: contact
-    id: contact
+      biography:
+        style: 'text-align: justify; font-size: 0.8em;'
+  - block: cta-button-list
     content:
-      title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
-      # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
-      address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-      office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
-      # Automatically link email and phone or display as text?
-      autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
-    design:
-      columns: '2'
+      # Need a custom icon?
+      # Add an SVG image to the `assets/media/icons/` folder and reference it in the `icon` field below
+      buttons:
+        - text: Read my latest paper on LLMs
+          icon: academicons/arxiv
+          url: https://arxiv.org/abs/2304.01852
+        - text: Watch my new YouTube video to achieve 20x productivity
+          icon: brands/youtube
+          url: https://youtube.com
+        - text: Connect with me on LinkedIn
+          icon: brands/linkedin
+          url: https://linkedin.com
 ---
