@@ -1,10 +1,16 @@
 main:
   - name: Home
-    url: '#'
+    url: '/'
     weight: 10
-  - name: Biography
-    url: '#resume-biography'
+  - name: About
+    url: '/about'
     weight: 20
-  - name: Links
-    url: '#cta-button-list'
+  - name: Posts
+    url: '/post'
     weight: 30
+  - name: Projects
+    url: '/project'
+    weight: 40
+  - name: Contact
+    url: '/contact'
+    weight: 50
