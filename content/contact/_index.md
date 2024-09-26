@@ -3,7 +3,7 @@ title: Contact
 type: landing
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
       subtitle:
