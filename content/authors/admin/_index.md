@@ -43,5 +43,5 @@ profiles:
 ---
 
 Lee Jin Gyu is undergraduate student of Security at the Jeonbuk National University BCG Lab. His research interests include
-Web Security, Web Development and Web Vulnerability Analysis. She leads the Robotic Neurobiology group, which develops
+Web Security, Web Development and Web Vulnerability Analysis. He leads the Robotic Neurobiology group, which develops
 self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
