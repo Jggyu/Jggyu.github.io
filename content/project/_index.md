@@ -1,6 +1,6 @@
 ---
 title: Projects
-type: landing
+type: page
 
 sections:
   - block: markdown

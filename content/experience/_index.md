@@ -1,6 +1,6 @@
 ---
 title: Experience
-type: landing
+type: page
 
 sections:
   - block: experience

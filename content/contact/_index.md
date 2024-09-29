@@ -1,6 +1,6 @@
 ---
 title: Contact
-type: landing
+type: page
 
 sections:
   - block: markdown
