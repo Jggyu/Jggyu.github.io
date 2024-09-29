@@ -3,7 +3,7 @@ title: Projects
 type: landing
 
 sections:
-  - block: markdown
+  - block: portfolio
     content:
       title: Projects
       filters:
