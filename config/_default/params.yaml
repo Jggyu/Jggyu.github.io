@@ -42,7 +42,6 @@ navbar:
   logo:
     image: "logo.svg"
     enable: true
-    text: "my logo"  # 로고 대신 텍스트 사용
   menu_alignment: center  # 이 옵션이 있다면, 메뉴 항목들을 중앙 정렬
   menu_padding: 40px  # 메뉴 항목 사이의 패딩을 늘려 중앙으로 밀어냄
 
