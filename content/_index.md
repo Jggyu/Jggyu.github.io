@@ -44,7 +44,7 @@ sections:
           - about
           - experience
     design:
-      view: custom_card
+      view: community/custom_card
       columns: '2'
 
   - block: collection
@@ -61,7 +61,7 @@ sections:
           - about
           - experience
     design:
-      view: custom_card
+      view: community/custom_card
       columns: '2'
 
   - block: collection
@@ -78,6 +78,6 @@ sections:
           - about
           - experience
     design:
-      view: custom_card
+      view: community/custom_card
       columns: '2'
 ---

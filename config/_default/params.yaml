@@ -30,19 +30,17 @@ marketing:
 header:
   navbar:
     enable: true
-    align: c
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: ""
+      filename: "logo.svg"
     show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
-logo:
-  # 이 부분을 추가하거나 수정하세요
-  image: "media/logo.svg"
-  image_light: "media/logo.svg"
-  image_dark: "media/logo.svg"
-  enable: true
 
 # Site footer
 footer:
