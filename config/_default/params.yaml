@@ -36,6 +36,9 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+  logo:
+    image: "logo.svg"
+    enable: true
 
 # Site logo
 #navbar:
