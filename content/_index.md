@@ -29,4 +29,55 @@ sections:
         - text: Connect with me on LinkedIn
           icon: brands/linkedin
           url: https://linkedin.com
+
+  - block: collection
+    content:
+      id: section-1
+      title: card test1
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - about
+          - experience
+    design:
+      view: community/custom_card
+      columns: '2'
+
+  - block: collection
+    content:
+      id: section-2
+      title: card test2
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - about
+          - experience
+    design:
+      view: community/custom_card
+      columns: '2'
+
+  - block: collection
+    content:
+      id: section-3
+      title: card test3
+      subtitle:
+      text:
+      count: 3
+      offset: 0
+      order: desc
+      filters:
+        folders:
+          - about
+          - experience
+    design:
+      view: community/custom_card
+      columns: '2'
 ---
