@@ -2,6 +2,8 @@
 title: Experience
 type: page
 
+view: community/custom_card
+
 sections:
   - block: experience
     content:
