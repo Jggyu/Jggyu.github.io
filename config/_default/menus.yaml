@@ -5,15 +5,55 @@ main:
   - name: About
     url: '/about/'
     weight: 20
+    identifier: aaa
+  - name: About1
+    url: '/about/about1/'
+    weight: 1
+    parent: aaa
+  - name: About2
+    url: '/about/about2/'
+    weight: 2
+    parent: aaa
   - name: Experience
     url: '/experience/'
     weight: 30
+    identifier: bbb
+  - name: Experience1
+    url: '/experience/experience1/'
+    weight: 1
+    parent: bbb
+  - name: Experience2
+    url: '/experience/experience2/'
+    weight: 2
+    parent: bbb
   - name: Projects
     url: '/projects/'
     weight: 40
+    identifier: ccc
+  - name: Projects1
+    url: '/projects/projects1/'
+    weight: 1
+    parent: ccc
+  - name: Projects2
+    url: '/projects/projects2/'
+    weight: 2
+    parent: ccc
+  - name: Projects3
+    url: '/projects/projects3/'
+    weight: 3
+    parent: ccc
   - name: Contact
     url: '/contact/'
     weight: 50
+    identifier: ddd
+  - name: Contact1
+    url: '/contact/contact1/'
+    weight: 1
+    parent: ddd
+  - name: Contact2
+    url: '/contact/contact2/'
+    weight: 2
+    parent: ddd
   - name: test
     url: '#'
     weight: 50
