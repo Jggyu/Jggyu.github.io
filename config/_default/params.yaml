@@ -37,6 +37,7 @@ header:
       text: ""
       filename: "logo.svg"
       align: l
+      size: 70px
     show_logo: true
     show_language: true
     show_day_night: true
