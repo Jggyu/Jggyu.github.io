@@ -2,18 +2,23 @@ main:
   - name: Home
     url: '/'
     weight: 10
+
   - name: About
-    url: '/about/'
+    url: about
     weight: 20
-    identifier: aaa
   - name: About1
-    url: '/about/about1/'
+    url: /about/about1/
     weight: 1
-    parent: aaa
+    parent: About
   - name: About2
-    url: '/about/about2/'
+    url: /about/about2
     weight: 2
-    parent: aaa
+    parent: About
+  - name: Cardtest
+    url: /about/cardtest1
+    weight: 3
+    parent: About
+
   - name: Experience
     url: '/experience/'
     weight: 30
