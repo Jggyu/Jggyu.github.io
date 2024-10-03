@@ -16,7 +16,7 @@ sections:
       biography:
         style: 'text-align: justify; font-size: 0.8em;'
 
-  - file: home/slider.md
+  - file: home/slider
 
   - block: cta-button-list
     content:
