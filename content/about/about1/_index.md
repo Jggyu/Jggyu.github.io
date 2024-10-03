@@ -1,6 +1,7 @@
 ---
 title: Admin1
-type: page
+date: 2024-10-03
+type: landing
 design:
   background:
     image:
