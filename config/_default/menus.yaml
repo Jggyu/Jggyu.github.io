@@ -47,18 +47,19 @@ main:
     url: '/projects/projects3/'
     weight: 3
     parent: ccc
+
   - name: Contact
-    url: '/contact/'
+    url: contact
     weight: 50
-    identifier: ddd
   - name: Contact1
-    url: '/contact/contact1/'
+    url: contact/contact1/
     weight: 1
-    parent: ddd
+    parent: Contact
   - name: Contact2
-    url: '/contact/contact2/'
+    url: contact/contact2
     weight: 2
-    parent: ddd
+    parent: Contact
+  
   - name: test
     url: '#'
     weight: 50
