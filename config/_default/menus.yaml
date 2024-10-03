@@ -11,11 +11,11 @@ main:
     weight: 1
     parent: About
   - name: About2
-    url: /about/about2
+    url: /about/about2/
     weight: 2
     parent: About
   - name: Cardtest
-    url: /about/cardtest1
+    url: /about/cardtest1/
     weight: 3
     parent: About
 

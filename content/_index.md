@@ -19,7 +19,6 @@ sections:
   - block: slider
     content:
       slides:
-
       - title: <span style="font-size:70%">Recruit</span>
         content: <span style="font-size:70%">Interested in MacsLAB?</span>
         align: center

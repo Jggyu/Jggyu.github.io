@@ -1,0 +1,12 @@
+{{ $page := .page }}
+{{ $block := .block }}
+
+<div class="slider-container">
+  {{ range $block.content.slides }}
+    <div class="slide">
+      <img src="{{ .image }}" alt="{{ .title }}">
+      <h3>{{ .title }}</h3>
+      <p>{{ .content }}</p>
+    </div>
+  {{ end }}
+</div>
