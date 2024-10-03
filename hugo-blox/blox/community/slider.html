@@ -1,0 +1,77 @@
+{{ $page := .page }}
+{{ $block := .block }}
+
+<section class="slider-section">
+  {{ with $block.content.slides }}
+    <div class="slider">
+      {{ range $index, $item := . }}
+        <div class="slide" style="background-image: url('{{ .background.media | relURL }}');">
+          <div class="slide-content">
+            <h2>{{ .title | markdownify | emojify }}</h2>
+            <p>{{ .content | markdownify | emojify }}</p>
+            {{ with .link }}
+              <a href="{{ .url }}" class="btn btn-primary">
+                {{ if .icon }}<i class="{{ .icon_pack }} {{ .icon }}" aria-hidden="true"></i>{{ end }}
+                {{ .text | emojify | markdownify }}
+              </a>
+            {{ end }}
+          </div>
+        </div>
+      {{ end }}
+    </div>
+  {{ end }}
+</section>
+
+<style>
+  .slider-section {
+    position: relative;
+    height: 100vh;
+    overflow: hidden;
+  }
+  .slider {
+    height: 100%;
+  }
+  .slide {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    text-align: center;
+  }
+  .slide-content {
+    max-width: 80%;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.5);
+  }
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const slides = document.querySelectorAll('.slide');
+  let currentSlide = 0;
+
+  function showSlide(n) {
+    slides[currentSlide].style.display = 'none';
+    currentSlide = (n + slides.length) % slides.length;
+    slides[currentSlide].style.display = 'flex';
+  }
+
+  function nextSlide() {
+    showSlide(currentSlide + 1);
+  }
+
+  // 기본값으로 5000ms (5초) 사용
+  const interval = 5000;
+
+  setInterval(nextSlide, interval);
+
+  showSlide(0);
+});
+</script>
