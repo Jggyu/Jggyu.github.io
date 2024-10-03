@@ -44,7 +44,7 @@ sections:
           - about
           - experience
     design:
-      view: custom_card
+      view: community/custom_card
       columns: '3'
 
   - block: collection
