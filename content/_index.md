@@ -33,9 +33,9 @@ sections:
   - block: collection
     content:
       id: section-1
-      title: card test1
-      subtitle:
-      text:
+      title: "Notifications"
+      subtitle: ""
+      text: ""
       count: 3
       offset: 0
       order: desc
@@ -44,8 +44,8 @@ sections:
           - about
           - experience
     design:
-      view: community/custom_card
-      columns: '2'
+      view: custom_card
+      columns: '3'
 
   - block: collection
     content:

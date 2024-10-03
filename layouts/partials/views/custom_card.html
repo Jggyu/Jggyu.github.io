@@ -1,0 +1,12 @@
+{{ $item := .item }}
+
+<div class="card">
+  {{ with $item.Params.image }}
+    <img src="{{ . }}" class="card-img-top" alt="{{ $item.Title }}">
+  {{ end }}
+  <div class="card-body">
+    <h5 class="card-title">{{ $item.Title }}</h5>
+    <p class="card-text">{{ $item.Params.summary | plainify | truncate 120 }}</p>
+    <a href="{{ $item.RelPermalink }}" class="btn btn-primary">Read more</a>
+  </div>
+</div>
