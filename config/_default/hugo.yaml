@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: JBNU GGYU # Website name
-baseURL: ${HUGO_BASE_URL} # Website URL
+baseURL: https://jggyu2.github.io/ # Website URL
 
 ############################
 ## LANGUAGE
