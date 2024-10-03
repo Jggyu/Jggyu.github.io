@@ -9,7 +9,7 @@ design:
       filename: bg-hue.svg
 
 sections:
-  - block: contact
+  - block: markdown
     content:
       title: Contact
       text: |
