@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Leee
+title: Lee Jin Gyu
 
 # Name pronunciation (optional)
-name_pronunciation: Lee jin gyu!!
+name_pronunciation: ggyu
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Jin Gyu
+last_name: Lee
 
 # Status emoji
 status:
@@ -42,6 +42,4 @@ profiles:
     label: Download my resume
 ---
 
-Lee Jin Gyu is undergraduate student of Security at the Jeonbuk National University BCG Lab. His research interests include
-Web Security, Web Development and Web Vulnerability Analysis. He leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Lee Jin Gyu is an undergraduate student studying Security at Jeonbuk National University. His research focuses on web security, web vulnerability analysis, and secure coding. He is deeply interested in improving web security through these areas and is actively conducting research on related topics.
