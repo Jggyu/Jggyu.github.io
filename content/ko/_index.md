@@ -8,30 +8,27 @@ sections:
   - block: hero
     content:
       title: |
-        안녕하세요, 
-        저는 전북대학교에 재학중인 이진규입니다
+        안녕하세요,
+        정보보안 전문가 전북대학교 이진규입니다
       image:
         filename: profile.jpg
       text: |
-        <br>
+        혁신적인 보안 혁신으로 미래를 만들어갑니다
         
-        **AI 연구자 & 데이터 과학자**
+        {{< icon name="chart-line" pack="fas" >}} 5년+ 경력
+        {{< icon name="project-diagram" pack="fas" >}} 20+ 프로젝트 완료
+        {{< icon name="award" pack="fas" >}} 10+ 수상 경력
         
-        ---
+        *"보안의 힘으로 불가능을 가능으로 만드는 여정에 함께하세요"*
         
-        - 💡 머신러닝과 딥러닝 전문가
-        - 🌍 글로벌 기업에서의 5년 이상의 경력
-        - 📊 빅데이터 분석 및 시각화 전문
-        - 🏆 국제 AI 컨퍼런스 다수 수상 경력
-        
-        [이력서 보기](#) &nbsp; [프로젝트 구경하기](#projects)
-    
+        [이력서 보기](#) [프로젝트 구경하기](#projects)
     design:
       background:
-        gradient_end: '#1976d2'
-        gradient_start: '#004ba0'
+        gradient_start: '#4bb4e3'
+        gradient_end: '#2b94c3'
         text_color_light: true
-      columns: "1"
+      spacing:
+        padding: ["20px", "0", "20px", "0"]
       css_class: fullscreen
   
   - block: slider
