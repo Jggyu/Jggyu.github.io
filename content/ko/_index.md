@@ -61,11 +61,31 @@ sections:
         align: right
         background:
           image:
-            filename: web2.jpg
+            filename: dev.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: 👋 네트워크 보안
+        content: '강력한 네트워크단의 보안'
+        align: center
+        background:
+          image:
+            filename: network.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: 시스템 보안 ☕️
+        content: '어떠한 시스템도 뚫거나 막는..!'
+        align: center
+        background:
+          image:
+            filename: system.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
         link:
           icon: graduation-cap
           icon_pack: fas

@@ -60,11 +60,31 @@ sections:
         align: right
         background:
           image:
-            filename: web2.jpg
+            filename: dev.jpg
             filters:
               brightness: 0.5
           position: center
           color: '#333'
+      - title: 👋 Network Security
+        content: 'Strong network security'
+        align: center
+        background:
+          image:
+            filename: network.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'
+      - title: System Security ☕️
+        content: 'Breaking through or blocking any system..!'
+        align: center
+        background:
+          image:
+            filename: system.jpg
+            filters:
+              brightness: 0.7
+          position: right
+          color: '#666'  
         link:
           icon: graduation-cap
           icon_pack: fas
