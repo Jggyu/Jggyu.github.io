@@ -48,7 +48,7 @@ social:
     link: https://github.com/Jggyu
   - icon: file-alt
     icon_pack: fas
-    link: uploads/resume.pdf
+    link: uploads/network1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zmfltmvl@jbnu.ac.kr'
