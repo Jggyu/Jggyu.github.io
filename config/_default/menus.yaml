@@ -3,7 +3,8 @@
 #     desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 
-main:
+en:
+  main:
   - name: Intro
     url: introduce
     weight: 10
@@ -13,6 +14,58 @@ main:
     weight: 10
   - parent: Intro
     name: Intro2
+    url: intro2
+    weight: 10
+
+
+  - name: News
+    url: post
+    weight: 20
+  - name: People
+    url: people
+    weight: 30
+  - name: Events
+    url: event
+    weight: 40
+  - name: Publications
+    url: publication
+    weight: 50
+
+  - name: Projects
+    url: projects
+    weight: 60
+  - parent: Projects
+    name: project
+    url: project
+    weight: 60
+  - parent: Projects
+    name: project2
+    url: project2
+    weight: 60 
+
+  - name: Contact
+    url: cont
+    weight: 70
+  - parent: Contact
+    name: Contact1
+    url: contact
+    weight: 70
+  - parent: Contact
+    name: Contact2
+    url: contact2
+    weight: 70
+
+ko:
+  main:
+  - name: 소개
+    url: introduce
+    weight: 10
+  - parent: Intro
+    name: 소개1
+    url: intro
+    weight: 10
+  - parent: Intro
+    name: 소개2
     url: intro2
     weight: 10
 
