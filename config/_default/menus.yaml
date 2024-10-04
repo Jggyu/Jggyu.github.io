@@ -50,46 +50,46 @@ ko:
   main:
     - name: 소개
       url: introduce
-      weight: 10
+      weight: 80
     - name: 소개1
       parent: 소개
       url: intro
-      weight: 11
+      weight: 81
     - name: 소개2
       parent: 소개
       url: intro2
-      weight: 12
+      weight: 82
     - name: 뉴스
       url: post
-      weight: 20
+      weight: 90
     - name: 사람들
       url: people
-      weight: 30
+      weight: 100
     - name: 이벤트
       url: event
-      weight: 40
+      weight: 110
     - name: 출판물
       url: publication
-      weight: 50
+      weight: 120
     - name: 프로젝트
       url: projects
-      weight: 60
+      weight: 130
     - name: 프로젝트1
       parent: 프로젝트
       url: project
-      weight: 61
+      weight: 131
     - name: 프로젝트2
       parent: 프로젝트
       url: project2
-      weight: 62 
+      weight: 132
     - name: 연락처
       url: cont
-      weight: 70
+      weight: 140
     - name: 연락처1
       parent: 연락처
       url: contact
-      weight: 71
+      weight: 141
     - name: 연락처2
       parent: 연락처
       url: contact2
-      weight: 72
+      weight: 142
