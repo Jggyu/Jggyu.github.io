@@ -19,7 +19,7 @@ role: IT정보공학과 학부생
 # Organizations/Affiliations
 organizations:
   - name: 전북대학교
-    url: ''
+    url: 'https://www.jbnu.ac.kr/kor/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Studying Security at Jeonbuk National University, focusing on web security, vulnerability analysis, and secure coding.

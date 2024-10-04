@@ -19,7 +19,7 @@ role: Undergraduate Student in IT Information Engineering
 # Organizations/Affiliations
 organizations:
   - name: Jeonbuk National University
-    url: ''
+    url: 'https://www.jbnu.ac.kr/eng/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: Studying Security at Jeonbuk National University, focusing on web security, vulnerability analysis, and secure coding.
