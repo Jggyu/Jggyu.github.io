@@ -36,11 +36,14 @@ marketing:
 header:
   navbar:
     enable: true
+    blox: "navbar"
     align: c
     show_logo: true
     logo:
       text: ""
-      filename: "logo.jpg"
+      filename: "logo.svg"
+      align: l
+      size: 200px
     show_language: true
     show_day_night: true
     show_search: true
