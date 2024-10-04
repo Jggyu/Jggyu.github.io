@@ -31,9 +31,8 @@ sections:
         gradient_end: '#1976d2'
         gradient_start: '#004ba0'
         text_color_light: true
-  design:
-    columns: "1"
-    css_class: fullscreen
+      columns: "1"
+      css_class: fullscreen
   
   - block: slider
     content:
