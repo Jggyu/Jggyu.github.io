@@ -10,7 +10,7 @@ external_link: ""
 image:
   caption: 쇼핑몰 사이트
   focal_point: Smart
-  filename: perweb-sum3.png
+  filename: perweb-sum3.jpg
 
 links:
   - icon: github
