@@ -7,14 +7,14 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: Contact Me!
       text: |-
         This is Jin-gyu Lee, an undergraduate student in the Department of IT and Information Engineering at Chonbuk National University!
         Please call, text or email!
       email: zmfltmvl@jbnu.ac.kr
       phone: +82 10 6752 4213
       address:
-        street: Baekje Road
+        street: 567 Baekje-daero, Deokjin-gu, Jeonju-si, Jeollabuk-do
         city: Jeonju
         postcode: '54896'
         country: South Korea

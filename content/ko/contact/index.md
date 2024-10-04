@@ -7,14 +7,14 @@ type: landing
 sections:
   - block: contact
     content:
-      title: Contact
+      title: 연락 방법!
       text: |-
         전북대학교 IT정보공학과 학부생 이진규입니다!
         전화, 문자 또는 메일 주세요!
       email: zmfltmvl@jbnu.ac.kr
       phone: 010 6752 4213
       address:
-        street: 백제대로
+        street: 전북 전주시 덕진구 백제대로 567
         city: 전주
         postcode: '54896'
         country: 대한민국
