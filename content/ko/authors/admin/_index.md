@@ -45,10 +45,10 @@ social:
     link: https://instagram.com/YourInstagramHandle
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/YourLinkedInProfile
+    link: https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/
   - icon: github
     icon_pack: fab
-    link: https://github.com/YourGitHubUsername
+    link: https://github.com/Jggyu
   - icon: file-alt
     icon_pack: fas
     link: uploads/resume.pdf
