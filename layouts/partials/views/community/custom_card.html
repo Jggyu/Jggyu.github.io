@@ -1,6 +1,4 @@
 {{ $item := .item }}
-{{ $has_attachments := partial "functions/has_attachments" $item }}
-
 {{ $link := $item.RelPermalink }}
 {{ $target := "" }}
 {{ if $item.Params.external_link }}
@@ -8,7 +6,6 @@
   {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
 {{ end }}
 
-{{/* Get summary. */}}
 {{ $summary := "" }}
 {{ if $item.Params.summary }}
   {{ $summary = $item.Params.summary | markdownify | emojify }}
@@ -20,37 +17,34 @@
 
 {{ $resource := partial "blox-core/functions/get_featured_image.html" $item }}
 
-<div class="card">
+<div class="card" style="border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); transition: all 0.3s ease; overflow: hidden;">
   {{ with $resource }}
   {{ $image := .Resize "550x" }}
   {{ if ne $image.MediaType.SubType "gif" }}{{ $image = $image.Process "webp" }}{{ end }}
-  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image hover-overlay">
+  <a href="{{ $link }}" {{ $target | safeHTMLAttr }} class="card-image" style="display: block; overflow: hidden;">
     <img src="{{ $image.RelPermalink }}" height="{{ $image.Height }}" width="{{ $image.Width }}"
-         alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="margin-top: 15px;">
+         alt="{{ $item.Title }}" class="img-responsive" loading="lazy" style="width: 100%; height: 200px; object-fit: cover; transition: transform 0.3s ease;">
   </a>
   {{ end }}
-  <div class="card-text">
-    <div class="section-subheading article-title mb-1 mt-3">
-        <h4><a href="{{ $link }}" {{ $target | safeHTMLAttr }}>{{ $item.Title | markdownify | emojify }}</a></h4>
-    </div>
-    
+  <div class="card-text" style="padding: 20px;">
+    <h4 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">
+      <a href="{{ $link }}" {{ $target | safeHTMLAttr }} style="color: #333; text-decoration: none; transition: color 0.3s ease;">{{ $item.Title | markdownify | emojify }}</a>
+    </h4>
 
     {{ if $item.Params.authors }}
-    <div class="article-metadata">
-        <div>
-            {{ partial "page_metadata_authors" $item }}
-        </div>
+    <div class="article-metadata" style="font-size: 0.9em; color: #666; margin-bottom: 10px;">
+      {{ partial "page_metadata_authors" $item }}
     </div>
     {{ end }}
 
     {{ with $summary }}
-    <div class="article-style">
+    <div class="article-style" style="font-size: 0.95em; color: #555; line-height: 1.6;">
       <p>{{ . }}</p>
     </div>
     {{ end }}
 
     {{ if $has_attachments }}
-    <div class="btn-links">
+    <div class="btn-links" style="margin-top: 15px;">
       {{ partial "page_links" (dict "page" $item "is_list" 1) }}
     </div>
     {{ end }}

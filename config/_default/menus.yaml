@@ -7,7 +7,7 @@ main:
     weight: 10
   - name: Intro1
     parent: Intro
-    url: /authors/이진규/
+    url: /author/이진규/
     weight: 11
   - name: Intro2
     parent: Intro
