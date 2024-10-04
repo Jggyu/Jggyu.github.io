@@ -4,9 +4,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Tour
-    url: tour
+  - name: Intro
+    url: introduce
     weight: 10
+  - parent: Intro
+    name: Intro1
+    url: intro
+    weight: 10
+  - parent: Intro
+    name: Intro2
+    url: intro2
+    weight: 10
+
+
   - name: News
     url: post
     weight: 20
@@ -19,6 +29,27 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Contact
-    url: contact
+
+  - name: Projects
+    url: projects
     weight: 60
+  - parent: Projects
+    name: project
+    url: project
+    weight: 60
+  - parent: Projects
+    name: project2
+    url: project2
+    weight: 60 
+
+  - name: Contact
+    url: cont
+    weight: 70
+  - parent: Contact
+    name: Contact1
+    url: contact
+    weight: 70
+  - parent: Contact
+    name: Contact2
+    url: contact2
+    weight: 70
