@@ -31,7 +31,7 @@ interests:
 
 education:
   courses:
-    - course: BSc in IT Information Engineering
+    - course: undergraduate student in IT Information Engineering
       institution: Jeonbuk National University
       year: Current
 
@@ -39,10 +39,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:your-email@example.com'
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/YourInstagramHandle
+    link: 'zmfltmvl@hotmail.co.kr'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/
@@ -54,7 +51,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zmfltmvl@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true

@@ -22,27 +22,24 @@ organizations:
     url: 'https://www.jbnu.ac.kr/kor/'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Studying Security at Jeonbuk National University, focusing on web security, vulnerability analysis, and secure coding.
+bio: 전북대학교에서 웹 보안, 취약점 분석, 시큐어 코딩을 중심으로 보안을 공부하고 있습니다.
 
 interests:
-  - Web Security
-  - Vulnerability Analysis
-  - Secure Coding
+  - 웹 보안
+  - 취약점 분석
+  - 시큐어코딩
 
 education:
   courses:
-    - course: BSc in IT Information Engineering
-      institution: Jeonbuk National University
-      year: Current
+    - course: IT정보공학과 학부생
+      institution: 전북대학교
+      year: 현재
 
 # Social/Academic Networking
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:your-email@example.com'
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/YourInstagramHandle
+    link: 'zmfltmvl@hotmail.co.kr'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/
@@ -54,7 +51,7 @@ social:
     link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'zmfltmvl@jbnu.ac.kr'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
