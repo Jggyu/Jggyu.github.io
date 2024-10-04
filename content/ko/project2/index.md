@@ -1,5 +1,5 @@
 ---
-title: Projects
+title: 개인 프로젝트
 
 # Listing view
 view: community/custom_card
@@ -7,5 +7,5 @@ view: community/custom_card
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'recruitment.jpg'
+  image: 'project.png'
 ---
