@@ -48,6 +48,12 @@ logo:
     image: 'logo.jpg'
     image_alt: 'My logo'
 
+logo:
+  # Logo in PNG format for dark mode
+  icon:
+    image_dark: 'logo.jpg'
+    image_alt_dark: 'My logo for dark mode'
+
 # Site footer
 
 footer:
