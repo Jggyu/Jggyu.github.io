@@ -1,5 +1,4 @@
-en:
-  main:
+main:
     - name: Intro
       url: introduce
       weight: 10
