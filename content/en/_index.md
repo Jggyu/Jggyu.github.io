@@ -72,16 +72,17 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 3000
 
   - block: collection
     content:
-      title: Latest News
+      title: IT Project
       subtitle:
       text:
       count: 5
@@ -93,9 +94,28 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: itproject
     design:
-      view: card
+      view: community/custom_card
+      columns: '1'
+
+  - block: collection
+    content:
+      title: WEB Project
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0
+      order: desc
+      page_type: webproject
+    design:
+      view: community/custom_card
       columns: '1'
   
   - block: markdown

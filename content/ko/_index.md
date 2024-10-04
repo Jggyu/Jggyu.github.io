@@ -73,17 +73,18 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
-      is_fullscreen: true
+      slide_height: '350px'
+      slide_width: '100px'
+      is_fullscreen: false
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 5000
+      interval: 3000
 
   - block: collection
     content:
       title: IT Project
-      subtitle:
+      subtitle: 
       text:
       count: 5
       filters:
@@ -96,7 +97,7 @@ sections:
       order: desc
       page_type: itproject
     design:
-      view: card
+      view: community/custom_card
       columns: '1'
 
   - block: collection
@@ -115,7 +116,7 @@ sections:
       order: desc
       page_type: webproject
     design:
-      view: card
+      view: community/custom_card
       columns: '1'
   
   - block: markdown
