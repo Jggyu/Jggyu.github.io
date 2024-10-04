@@ -12,6 +12,7 @@ external_link: ""
 image:
   caption: 맛집 어플 스크린샷
   focal_point: Smart
+  filename: mobilesum.png
 
 links:
   - icon: github
@@ -62,3 +63,5 @@ slides: ""
 ![맛집 어플 화면 1](mobile-1.png "어플 화면 1")
 
 ![맛집 어플 화면 2](mobile-2.png "어플 화면 2")
+
+![맛집 어플 화면 3](mobile-3.png "어플 화면 3")
