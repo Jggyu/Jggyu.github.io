@@ -5,31 +5,35 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: about.avatar
     content:
-      title: |
-        안녕하세요,
-        정보보안 전문가 전북대학교 이진규입니다
-      image:
-        filename: profile.jpg
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
       text: |
-        혁신적인 보안 혁신으로 미래를 만들어갑니다
-        
-        {{< icon name="chart-line" pack="fas" >}} 5년+ 경력
-        {{< icon name="project-diagram" pack="fas" >}} 20+ 프로젝트 완료
-        {{< icon name="award" pack="fas" >}} 10+ 수상 경력
-        
-        *"보안의 힘으로 불가능을 가능으로 만드는 여정에 함께하세요"*
-        
-        [이력서 보기](#) [프로젝트 구경하기](#projects)
+        ggyu
+        ## 이진규
+        IT정보공학과
+        전북대학교
+
+        {{< icon name="envelope" pack="fas" >}} {{< icon name="instagram" pack="fab" >}} {{< icon name="linkedin" pack="fab" >}} {{< icon name="github" pack="fab" >}} {{< icon name="file-alt" pack="fas" >}}
     design:
       background:
-        gradient_start: '#4bb4e3'
-        gradient_end: '#2b94c3'
-        text_color_light: true
-      spacing:
-        padding: ["20px", "0", "20px", "0"]
-      css_class: fullscreen
+        gradient_start: '#e6d5e6'
+        gradient_end: '#c2e9fb'
+        text_color_light: false
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        Lee Jin Gyu is an undergraduate student studying Security at Jeonbuk National University. His research focuses on web security, web vulnerability analysis, and secure coding. He is deeply interested in improving web security through these areas and is actively conducting research on related topics.
+    design:
+      columns: '1'
+      background:
+        gradient_end: '#c2e9fb'
+        gradient_start: '#ffffff'
+        text_color_light: false
   
   - block: slider
     content:
