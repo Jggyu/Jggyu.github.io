@@ -43,6 +43,9 @@ header:
     show_search: true
     highlight_active_link: false
 
+logo:
+  image: "media/logo.jpg"
+
 # Site footer
 
 footer:
