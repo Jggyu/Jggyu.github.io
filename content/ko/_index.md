@@ -6,25 +6,25 @@ type: landing
 
 sections:
   - block: hero
-  content:
-    title: |
-      안녕하세요, 
-      저는 전북대 재학중인 이진규입니다
-    image:
-      filename: Ai.jpg
-    text: |
-      <br>
-      
-      **AI 연구자 & 데이터 과학자**
-      
-      ---
-      
-      - 💡 머신러닝과 딥러닝 전문가
-      - 🌍 글로벌 기업에서의 5년 이상의 경력
-      - 📊 빅데이터 분석 및 시각화 전문
-      - 🏆 국제 AI 컨퍼런스 다수 수상 경력
-      
-      [이력서 보기](#) &nbsp; [프로젝트 구경하기](#projects)
+    content:
+      title: |
+        안녕하세요, 
+        저는 전북대학교에 재학중인 이진규입니다
+      image:
+        filename: profile.jpg
+      text: |
+        <br>
+        
+        **AI 연구자 & 데이터 과학자**
+        
+        ---
+        
+        - 💡 머신러닝과 딥러닝 전문가
+        - 🌍 글로벌 기업에서의 5년 이상의 경력
+        - 📊 빅데이터 분석 및 시각화 전문
+        - 🏆 국제 AI 컨퍼런스 다수 수상 경력
+        
+        [이력서 보기](#) &nbsp; [프로젝트 구경하기](#projects)
     
     design:
       background:
