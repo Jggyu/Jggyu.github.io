@@ -1,46 +1,49 @@
 main:
-    - name: Intro
-      url: introduce
-      weight: 10
-    - name: Intro1
-      parent: Intro
-      url: intro
-      weight: 11
-    - name: Intro2
-      parent: Intro
-      url: intro2
-      weight: 12
-    - name: News
-      url: post
-      weight: 20
-    - name: People
-      url: people
-      weight: 30
-    - name: Events
-      url: event
-      weight: 40
-    - name: Publications
-      url: publication
-      weight: 50
-    - name: Projects
-      url: projects
-      weight: 60
-    - name: project
-      parent: Projects
-      url: project
-      weight: 61
-    - name: project2
-      parent: Projects
-      url: project2
-      weight: 62 
-    - name: Contact
-      url: cont
-      weight: 70
-    - name: Contact1
-      parent: Contact
-      url: contact
-      weight: 71
-    - name: Contact2
-      parent: Contact
-      url: contact2
-      weight: 72
+  - name: Home
+    url: /
+    weight: 1
+  - name: Intro
+    url: introduce
+    weight: 10
+  - name: Intro1
+    parent: Intro
+    url: intro
+    weight: 11
+  - name: Intro2
+    parent: Intro
+    url: intro2
+    weight: 12
+  - name: News
+    url: post
+    weight: 20
+  - name: People
+    url: people
+    weight: 30
+  - name: Events
+    url: event
+    weight: 40
+  - name: Publications
+    url: publication
+    weight: 50
+  - name: Projects
+    url: projects
+    weight: 60
+  - name: project
+    parent: Projects
+    url: project
+    weight: 61
+  - name: project2
+    parent: Projects
+    url: project2
+    weight: 62 
+  - name: Contact
+    url: cont
+    weight: 70
+  - name: Contact1
+    parent: Contact
+    url: contact
+    weight: 71
+  - name: Contact2
+    parent: Contact
+    url: contact2
+    weight: 72    
