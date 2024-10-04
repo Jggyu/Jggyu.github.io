@@ -11,11 +11,11 @@ en:
   - parent: Intro
     name: Intro1
     url: intro
-    weight: 10
+    weight: 11
   - parent: Intro
     name: Intro2
     url: intro2
-    weight: 10
+    weight: 12
 
 
   - name: News
@@ -37,11 +37,11 @@ en:
   - parent: Projects
     name: project
     url: project
-    weight: 60
+    weight: 61
   - parent: Projects
     name: project2
     url: project2
-    weight: 60 
+    weight: 62 
 
   - name: Contact
     url: cont
@@ -49,11 +49,11 @@ en:
   - parent: Contact
     name: Contact1
     url: contact
-    weight: 70
+    weight: 71
   - parent: Contact
     name: Contact2
     url: contact2
-    weight: 70
+    weight: 72
 
 ko:
   main:
@@ -63,11 +63,11 @@ ko:
   - parent: Intro
     name: 소개1
     url: intro
-    weight: 10
+    weight: 11
   - parent: Intro
     name: 소개2
     url: intro2
-    weight: 10
+    weight: 12
 
 
   - name: News
@@ -89,11 +89,11 @@ ko:
   - parent: Projects
     name: project
     url: project
-    weight: 60
+    weight: 61
   - parent: Projects
     name: project2
     url: project2
-    weight: 60 
+    weight: 62 
 
   - name: Contact
     url: cont
@@ -101,8 +101,8 @@ ko:
   - parent: Contact
     name: Contact1
     url: contact
-    weight: 70
+    weight: 71
   - parent: Contact
     name: Contact2
     url: contact2
-    weight: 70
+    weight: 72
