@@ -37,17 +37,11 @@ header:
   navbar:
     enable: true
     align: c
-    fixed_to_top: true
-    logo:
-      text: ""
-      filename: "logo.jpg"
-      align: l
-      size: 200px
     show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
-    highlight_active_link: true
+    highlight_active_link: false
 
 # Site footer
 
