@@ -38,6 +38,11 @@ header:
     enable: true
     align: c
     show_logo: true
+    logo:
+      text: "전북대 이진규의 웹"
+      filename: "logo.svg"
+      align: l
+      size: 200px
     show_language: true
     show_day_night: true
     show_search: true
