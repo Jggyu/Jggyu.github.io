@@ -10,12 +10,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |
-        ggyu
-        ## 이진규
-        IT정보공학과
-        전북대학교
-
-        {{< icon name="envelope" pack="fas" >}} {{< icon name="instagram" pack="fab" >}} {{< icon name="linkedin" pack="fab" >}} {{< icon name="github" pack="fab" >}} {{< icon name="file-alt" pack="fas" >}}
+        전북대학교 IT정보공학과에 재학중인 이진규라고 합니다. 저는 정보보안에 흥미를 느끼며 집중적으로 공부하고 있으며 특히 시큐어코딩, 웹 취약점 점검 등 웹 보안을 중점으로 연구하며 공부하고 있습니다. 이러한 분야를 통한 웹 보안 향상에 깊은 관심을 갖고 관련 주제에 대한 연구를 활발히 진행중입니다.
     design:
       background:
         gradient_start: '#e6d5e6'
@@ -27,7 +22,8 @@ sections:
       title:
       subtitle:
       text: |
-        Lee Jin Gyu is an undergraduate student studying Security at Jeonbuk National University. His research focuses on web security, web vulnerability analysis, and secure coding. He is deeply interested in improving web security through these areas and is actively conducting research on related topics.
+        .
+        
     design:
       columns: '1'
       background:

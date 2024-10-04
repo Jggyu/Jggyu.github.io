@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Lee Jin Gyu
+title: 이진규
 
 # Full name (for SEO)
-first_name: Jin Gyu
-last_name: Lee
+first_name: 진규
+last_name: 이
 
 # Username (this should match the folder name)
 authors:
@@ -14,11 +14,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Undergraduate Student in IT Information Engineering
+role: IT정보공학과 학부생
 
 # Organizations/Affiliations
 organizations:
-  - name: Jeonbuk National University
+  - name: 전북대학교
     url: ''
 
 # Short bio (displayed in user profile at end of posts)

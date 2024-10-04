@@ -5,17 +5,30 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: about.avatar
     content:
-      title: |
-        Wowchemy
-        Research Group
-      image:
-        filename: welcome.jpg
+      # Choose a user profile to display (a folder name within `content/authors/`)
+      username: admin
       text: |
-        <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+        Lee Jin Gyu is an undergraduate student studying Security at Jeonbuk National University. His research focuses on web security, web vulnerability analysis, and secure coding. He is deeply interested in improving web security through these areas and is actively conducting research on related topics.
+    design:
+      background:
+        gradient_start: '#e6d5e6'
+        gradient_end: '#c2e9fb'
+        text_color_light: false
+  
+  - block: markdown
+    content:
+      title:
+      subtitle:
+      text: |
+        .
+    design:
+      columns: '1'
+      background:
+        gradient_end: '#c2e9fb'
+        gradient_start: '#ffffff'
+        text_color_light: false
   
   - block: slider
     content:
