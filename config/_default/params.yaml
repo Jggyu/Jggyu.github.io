@@ -38,6 +38,9 @@ header:
     enable: true
     align: c
     show_logo: true
+    logo:
+      text: ""
+      filename: "logo.jpg"
     show_language: true
     show_day_night: true
     show_search: true
