@@ -1,108 +1,95 @@
-# Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
-#   The weight parameter defines the order that the links will appear in.
-
 en:
   main:
-  - name: Intro
-    url: introduce
-    weight: 10
-  - parent: Intro
-    name: Intro1
-    url: intro
-    weight: 11
-  - parent: Intro
-    name: Intro2
-    url: intro2
-    weight: 12
-
-
-  - name: News
-    url: post
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-
-  - name: Projects
-    url: projects
-    weight: 60
-  - parent: Projects
-    name: project
-    url: project
-    weight: 61
-  - parent: Projects
-    name: project2
-    url: project2
-    weight: 62 
-
-  - name: Contact
-    url: cont
-    weight: 70
-  - parent: Contact
-    name: Contact1
-    url: contact
-    weight: 71
-  - parent: Contact
-    name: Contact2
-    url: contact2
-    weight: 72
+    - name: Intro
+      url: introduce
+      weight: 10
+    - name: Intro1
+      parent: Intro
+      url: intro
+      weight: 11
+    - name: Intro2
+      parent: Intro
+      url: intro2
+      weight: 12
+    - name: News
+      url: post
+      weight: 20
+    - name: People
+      url: people
+      weight: 30
+    - name: Events
+      url: event
+      weight: 40
+    - name: Publications
+      url: publication
+      weight: 50
+    - name: Projects
+      url: projects
+      weight: 60
+    - name: project
+      parent: Projects
+      url: project
+      weight: 61
+    - name: project2
+      parent: Projects
+      url: project2
+      weight: 62 
+    - name: Contact
+      url: cont
+      weight: 70
+    - name: Contact1
+      parent: Contact
+      url: contact
+      weight: 71
+    - name: Contact2
+      parent: Contact
+      url: contact2
+      weight: 72
 
 ko:
   main:
-  - name: 소개
-    url: introduce
-    weight: 10
-  - parent: Intro
-    name: 소개1
-    url: intro
-    weight: 11
-  - parent: Intro
-    name: 소개2
-    url: intro2
-    weight: 12
-
-
-  - name: News
-    url: post
-    weight: 20
-  - name: People
-    url: people
-    weight: 30
-  - name: Events
-    url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
-
-  - name: Projects
-    url: projects
-    weight: 60
-  - parent: Projects
-    name: project
-    url: project
-    weight: 61
-  - parent: Projects
-    name: project2
-    url: project2
-    weight: 62 
-
-  - name: Contact
-    url: cont
-    weight: 70
-  - parent: Contact
-    name: Contact1
-    url: contact
-    weight: 71
-  - parent: Contact
-    name: Contact2
-    url: contact2
-    weight: 72
+    - name: 소개
+      url: introduce
+      weight: 10
+    - name: 소개1
+      parent: 소개
+      url: intro
+      weight: 11
+    - name: 소개2
+      parent: 소개
+      url: intro2
+      weight: 12
+    - name: 뉴스
+      url: post
+      weight: 20
+    - name: 사람들
+      url: people
+      weight: 30
+    - name: 이벤트
+      url: event
+      weight: 40
+    - name: 출판물
+      url: publication
+      weight: 50
+    - name: 프로젝트
+      url: projects
+      weight: 60
+    - name: 프로젝트1
+      parent: 프로젝트
+      url: project
+      weight: 61
+    - name: 프로젝트2
+      parent: 프로젝트
+      url: project2
+      weight: 62 
+    - name: 연락처
+      url: cont
+      weight: 70
+    - name: 연락처1
+      parent: 연락처
+      url: contact
+      weight: 71
+    - name: 연락처2
+      parent: 연락처
+      url: contact2
+      weight: 72
