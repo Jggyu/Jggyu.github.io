@@ -41,7 +41,7 @@ slides: ""
 
 - **프로그래밍 언어**: Kotlin
 - **개발 환경**: Android Studio
-- **데이터베이스**: SQLite, SQLite
+- **데이터베이스**: SQLite
 - **API**: Google Maps API
 
 ## 개발 과정
@@ -59,4 +59,6 @@ slides: ""
 
 ## 스크린샷
 
-[여기에 애플리케이션의 주요 화면 스크린샷을 추가하세요]
+![맛집 어플 화면 1](mobile-1.png "어플 화면 1")
+
+![맛집 어플 화면 2](mobile-2.png "어플 화면 2")
