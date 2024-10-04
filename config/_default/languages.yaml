@@ -6,15 +6,15 @@
 en:
   languageCode: en-us
   contentDir: content/en
-  title: JeonBuk University LEE JIN GYU
+  title: Jeonbuk University LEE JIN GYU's WEB
   weight: 1
 
 ko:
   languageCode: ko-kr
   contentDir: content/ko
-  title: 전북대 이진규
+  title: 전북대 이진규의 웹
   weight: 2
-  
+
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
   #contentDir: content/en
 

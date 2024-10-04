@@ -1,5 +1,5 @@
 ---
-title: Notifications
+title: My projects
 
 # Listing view
 view: communication/custom_card
@@ -7,5 +7,5 @@ view: communication/custom_card
 # Optional header image (relative to `assets/media/` folder).
 banner:
   caption: ''
-  image: 'recruitment.jpg'
+  image: 'project.png'
 ---
