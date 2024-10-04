@@ -43,11 +43,6 @@ header:
     show_search: true
     highlight_active_link: false
 
-logo:
-  icon:
-    en: media/logo.jpg
-    ko: media/logo.jpg
-
 # Site footer
 
 footer:
