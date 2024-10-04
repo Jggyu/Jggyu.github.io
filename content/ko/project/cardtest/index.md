@@ -4,7 +4,7 @@ summary: 사용자 맞춤형 맛집 추천 및 리뷰 모바일 애플리케이�
 tags:
   - 모바일 프로그래밍
   - Android
-  - Java
+  - Kotlin
 date: 2023-11-01
 
 external_link: ""
@@ -17,7 +17,7 @@ links:
   - icon: github
     icon_pack: fab
     name: 코드
-    url: https://github.com/yourusername/restaurant-app
+    url: https://github.com/Jggyu
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -39,10 +39,10 @@ slides: ""
 
 ## 사용 기술
 
-- **프로그래밍 언어**: Java
+- **프로그래밍 언어**: Kotlin
 - **개발 환경**: Android Studio
-- **데이터베이스**: SQLite, Firebase Realtime Database
-- **API**: Google Maps API, Yelp API
+- **데이터베이스**: SQLite, SQLite
+- **API**: Google Maps API
 
 ## 개발 과정
 
