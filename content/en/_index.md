@@ -35,32 +35,32 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 👋 Secure Coding
+        content: 'Blocks any web hacking technology...'
         align: center
         background:
           image:
-            filename: coders.jpg
+            filename: secure.jpg
             filters:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: Web vulnerability check ☕️
+        content: 'Strengthening web security through vulnerability checking....!'
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: webattack.jpg
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: development
+        content: 'Perfect web application development!'
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: web2.jpg
             filters:
               brightness: 0.5
           position: center
