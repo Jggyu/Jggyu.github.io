@@ -2,7 +2,7 @@
 title: Notifications
 
 # Listing view
-view: community/custom_card.html
+view: compact
 
 # Optional header image (relative to `assets/media/` folder).
 banner:
