@@ -28,13 +28,13 @@ main:
   - name: Projects
     url: projects
     weight: 60
-  - name: project
+  - name: itproject
     parent: Projects
-    url: project
+    url: itproject
     weight: 61
-  - name: project2
+  - name: webproject
     parent: Projects
-    url: project2
+    url: webproject
     weight: 62 
   - name: Contact
     url: cont
