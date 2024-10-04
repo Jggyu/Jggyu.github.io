@@ -36,7 +36,7 @@ marketing:
 header:
   navbar:
     enable: true
-    align: l
+    align: c
     show_logo: true
     show_language: true
     show_day_night: true
@@ -44,7 +44,9 @@ header:
     highlight_active_link: false
 
 logo:
-  icon: media/logo.jpg
+  icon:
+    en: media/logo.jpg
+    ko: media/logo.jpg
 
 # Site footer
 
