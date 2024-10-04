@@ -1,9 +1,9 @@
 ---
-title: cardtest2
+title: 객체지향프로그래밍
 date: 2024-03-29
 ---
 
-testtest2222
+객체지향프로그래밍 - 자바를 사용한 게임 개발
 
 <!--more-->
 

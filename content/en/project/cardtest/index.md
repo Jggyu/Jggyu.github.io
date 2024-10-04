@@ -1,9 +1,9 @@
 ---
-title: cardtest
+title: mobile programming
 date: 2024-03-29
 ---
 
-testtest
+Mobile programming - restaurant app
 
 <!--more-->
 

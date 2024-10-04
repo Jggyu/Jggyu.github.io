@@ -1,5 +1,5 @@
 ---
-title: My projects
+title: 학과 팀 프로젝트
 
 # Listing view
 view: community/custom_card
