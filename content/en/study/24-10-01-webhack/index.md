@@ -3,6 +3,8 @@ title: Web hacking basics study in progress
 date: 2024-10-01
 image:
   focal_point: 'top'
+
+share: false
 ---
 
 Basic web hacking studies are actively underway.

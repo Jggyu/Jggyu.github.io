@@ -23,6 +23,8 @@ url_slides: ""
 url_video: ""
 
 slides: ""
+
+share: false
 ---
 
 ## Project Overview

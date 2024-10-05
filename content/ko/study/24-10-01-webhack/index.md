@@ -3,6 +3,8 @@ title: 웹 해킹 기초 스터디 진행 중
 date: 2024-10-01
 image:
   focal_point: 'top'
+
+share: false
 ---
 
 웹 해킹 기초 스터디가 활발히 진행되고 있습니다.

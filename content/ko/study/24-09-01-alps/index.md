@@ -3,6 +3,8 @@ title: ALPS 동아리 - 자료구조 및 알고리즘 Basic 스터디 진행 중
 date: 2024-09-01
 image:
   focal_point: 'top'
+
+share: false
 ---
 
 ALPS 동아리에서 자료구조 및 알고리즘 Basic 스터디가 활발히 진행되고 있습니다.

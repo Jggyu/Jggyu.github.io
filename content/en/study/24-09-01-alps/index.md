@@ -3,6 +3,8 @@ title: ALPS Club - Data structure and algorithm basic study in progress
 date: 2024-09-01
 image:
   focal_point: 'top'
+
+share: false
 ---
 
 Basic study of data structures and algorithms is actively underway in the ALPS club.

@@ -3,6 +3,8 @@ title: Successfully operated a network manager level 2 certification study group
 date: 2024-04-01
 image:
   focal_point: 'top'
+
+share: false
 ---
 
 congratulations! All members of our study group passed the Network Administrator Level 2 certification exam.

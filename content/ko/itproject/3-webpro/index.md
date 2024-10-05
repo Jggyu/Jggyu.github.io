@@ -27,6 +27,8 @@ url_slides: ""
 url_video: ""
 
 slides: ""
+
+share: false
 ---
 
 ## 프로젝트 개요
