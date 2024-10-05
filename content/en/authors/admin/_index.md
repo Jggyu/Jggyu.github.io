@@ -1,6 +1,7 @@
 ---
 # Display name
 title: Lee Jin Gyu
+slug: "name"
 
 # Full name (for SEO)
 first_name: Jin Gyu
