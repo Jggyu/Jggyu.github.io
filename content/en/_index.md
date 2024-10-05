@@ -21,19 +21,6 @@ sections:
         gradient_end: '#c2e9fb'
         text_color_light: false
   
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-      
-    design:
-      columns: '1'
-      background:
-        gradient_end: '#c2e9fb'
-        gradient_start: '#ffffff'
-        text_color_light: false
-  
   - block: slider
     content:
       slides:
