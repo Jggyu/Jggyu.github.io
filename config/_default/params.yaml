@@ -6,12 +6,12 @@
 # Appearance
 
 appearance:
-  theme_day: native
+  theme_day: dark
   theme_night: dark
   font: native
   font_size: L
   mode: light
-  color: blue
+  color: pink
 
 # SEO
 
@@ -44,7 +44,7 @@ header:
     highlight_active_link: true
 
 params:
-  logo: icon.png  
+  logo: "media/icon.png"  
 
 # Site footer
 
