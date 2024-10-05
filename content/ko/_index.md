@@ -153,7 +153,7 @@ sections:
         tag: ''
       offset: 0 
       order: desc
-      page_type: webproject
+      page_type: study
     design:
       view: card
       columns: '1'
