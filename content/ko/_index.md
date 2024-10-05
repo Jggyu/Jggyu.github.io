@@ -1,6 +1,6 @@
 ---
 # Leave the homepage title empty to use the site title
-title: 전북대 이진규의 웹
+title:
 date: 2022-10-24
 type: landing
 
