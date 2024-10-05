@@ -1,6 +1,7 @@
 ---
 # Display name
 title: 이진규
+slug: "name"
 
 # Full name (for SEO)
 first_name: 진규
