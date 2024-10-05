@@ -13,17 +13,19 @@ appearance:
   mode: light
   color: blue
   light_mode_color:
-    background: "#f0f8ff" 
-    text: "#1a1a1a" 
-    link: "#0056b3" 
-    button: "#0066cc"
+    background: "#f5f7fa"  
+    text: "#2d2d2d"  
+    link: "#007acc"
+    button: "#00bfff" 
     button_text: "#ffffff" 
+    accent: "#ff4081" 
   dark_mode_color:
-    background: "#1b1b1b" 
-    text: "#e0e0e0"
-    link: "#66ccff"
-    button: "#3381ff" 
-    button_text: "#ffffff"  
+    background: "#181818" 
+    text: "#e8e8e8"  
+    link: "#76c7f4" 
+    button: "#ff4081" 
+    button_text: "#181818"  
+    accent: "#ffcc00" 
 
 # SEO
 
