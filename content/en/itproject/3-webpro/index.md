@@ -20,7 +20,7 @@ links:
   - icon: github
     icon_pack: fab
     name: code
-    url: https://github.com/Jggyu/Jggyu2.github.io
+    url: https://github.com/Jggyu/Jggyu.github.io
 url_code: ""
 url_pdf: ""
 url_slides: ""
