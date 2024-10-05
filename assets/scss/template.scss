@@ -31,3 +31,21 @@
     transition: background-color 0.3s ease;
   }
 }
+
+[data-scheme="dark"] {
+  --color-primary: #ff69b4;
+  
+  --color-text: #ff69b4;
+
+  --color-link: #ff69b4;
+  --color-link-hover: #ff1493;
+  
+  h1, h2, h3, h4, h5, h6 {
+    color: #ff69b4;
+  }
+
+  .navbar .navbar-nav .nav-link {
+    color: #ff69b4 !important;
+  }
+  
+}
