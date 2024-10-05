@@ -105,6 +105,11 @@ features:
     provider: 'mapnik'
     api_key: ''
     zoom: 15
+  icons:
+    pack:
+      ai: true
+      fas: true
+      fab: true
 
 # Extensions
 
