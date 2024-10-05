@@ -6,16 +6,8 @@ main:
     url: about
     weight: 10
   - name: Intro
-    url: introduce
-    weight: 20
-  - name: Intro1
-    parent: Intro
     url: /author/이진규/
-    weight: 21
-  - name: Intro2
-    parent: Intro
-    url: intro2
-    weight: 22
+    weight: 20
   - name: Study
     url: studies
     weight: 30
