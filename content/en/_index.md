@@ -14,7 +14,7 @@ sections:
 
         ## {{< icon name="shield-alt" pack="fas" >}}**This is Jinkyu Lee, majoring in IT and Information Engineering at Chonbuk National University!**
         
-        #### {{< icon name="hackerrank" pack="fab" >}}I am researching and studying the web hacking / network field with interest!{{< icon name="network-wired" pack=" fas" >}}
+        #### {{< icon name="hackerrank" pack="fab" >}}I am researching and studying the web hacking / network field with interest!{{< icon name="network-wired" pack="fas" >}}
 
         #### Dreaming of becoming an expert in **web security**, **vulnerability analysis**, and **secure coding**{{< icon name="search" pack="fas" >}}
         
