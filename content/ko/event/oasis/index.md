@@ -7,7 +7,7 @@ event_url:
 location: 라마다호텔 광주
 address:
   street: 
-  city: 광주
+  city:
   region: 
   postcode: 
   country: 대한민국
@@ -27,7 +27,7 @@ authors: []
 tags: [해커톤, 여행, 플랫폼, 공공API]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Oasis Hackathon 2024'
