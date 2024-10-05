@@ -3,12 +3,6 @@
 title:
 date: 2022-10-24
 type: landing
-design:
-      background:
-        gradient_start: '#e6d5e6'
-        gradient_end: '#c2e9fb'
-        text_color_light: false
-
 
 sections:
   - block: about.avatar
@@ -33,7 +27,6 @@ sections:
       title:
       subtitle:
       text: |
-        .
         
     design:
       columns: '1'

@@ -26,7 +26,7 @@ sections:
       title:
       subtitle:
       text: |
-        .
+      
     design:
       columns: '1'
       background:
