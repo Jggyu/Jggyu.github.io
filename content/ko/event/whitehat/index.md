@@ -27,7 +27,7 @@ authors: []
 tags: [정보보안, 인재양성, 화이트해커]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '출처: https://www.etnews.com/20240926000431'
@@ -44,6 +44,8 @@ slides: ""
 # Projects (optional).
 projects:
   - 화이트햇 스쿨
+
+share: false
 ---
 
 한국정보기술연구원(원장 유준상)이 주관하는 차세대 보안리더 양성 프로그램 '화이트햇 스쿨(White Hat School)' 2기 졸업식이 성공적으로 개최되었습니다.

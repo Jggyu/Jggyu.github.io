@@ -27,7 +27,7 @@ authors: []
 tags: [해커톤, 여행, 플랫폼, 공공API]
 
 # Is this a featured talk? (true/false)
-featured: true
+featured: false
 
 image:
   caption: '출처: https://www.aipostkorea.com/news/articleView.html?idxno=3341'
@@ -44,6 +44,8 @@ slides: ""
 # Projects (optional).
 projects:
   - 호남人
+
+share: false
 ---
 
 Oasis Hackathon 2024에 참가하여 '호남人'이라는 서비스를 개발했습니다. 이 서비스는 다트 게임을 통해 사용자에게 즉흥적이고 재미있는 여행 경험을 제공하는 플랫폼입니다.
