@@ -38,7 +38,7 @@ education:
 # Social/Academic Networking
 social:
   - icon: envelope
-    icon_pack: fas
+    icon_pack: fab
     link: 'zmfltmvl@hotmail.co.kr'
   - icon: linkedin
     icon_pack: fab
@@ -47,7 +47,7 @@ social:
     icon_pack: fab
     link: https://github.com/Jggyu
   - icon: file-alt
-    icon_pack: fas
+    icon_pack: fab
     link: uploads/network1.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
