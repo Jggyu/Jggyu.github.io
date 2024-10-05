@@ -8,11 +8,14 @@
 appearance:
   theme_day: ocean
   theme_night: dark
-  font: mr_robot
+  font: rose
   font_size: L
   mode: light
   color: pink
   dark_mode_toggler: true
+
+params:
+  logo: "images/logo.png"
 
 # SEO
 
