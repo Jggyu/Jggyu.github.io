@@ -13,12 +13,9 @@ appearance:
   mode: light
   color: pink
   dark_mode_toggler: true
-
-logo:
-  image: "icon.png"
-  image_dark: "icon.png"
-  alt: "My Logo"
-  link: "/"
+  custom_fonts:
+    - family: Noto Sans KR
+      url: 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap'
 
 # SEO
 
@@ -49,6 +46,12 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+
+logo:
+  image: "icon.png"
+  image_dark: "icon.png"
+  alt: "My Logo"
+  link: "/"
 
 # Site footer
 
