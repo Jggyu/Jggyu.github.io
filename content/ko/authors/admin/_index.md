@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 
+title: 이진규
 
 # Full name (for SEO)
 first_name: 진규
