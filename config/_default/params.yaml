@@ -8,14 +8,17 @@
 appearance:
   theme_day: ocean
   theme_night: dark
-  font: rose
+  font: playfair
   font_size: L
   mode: light
   color: pink
   dark_mode_toggler: true
 
-params:
-  logo: "images/logo.png"
+logo:
+  image: "icon.png"
+  image_dark: "icon.png"
+  alt: "My Logo"
+  link: "/"
 
 # SEO
 
