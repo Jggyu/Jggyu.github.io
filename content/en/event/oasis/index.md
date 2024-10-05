@@ -55,4 +55,4 @@ Key features:
 - Providing local information using public API
 - Honam region-specific travel recommendation system
 
-Through this hackathon, we gained experience in teamwork, rapid prototyping, and service development using public data. The 'Honam People' service has been recognized for its potential to contribute to revitalizing local tourism.
+Through this hackathon, we gained experience in teamwork, rapid prototyping, and service development using public data. The 'Honam People' service won the grand prize in recognition of its potential to contribute to revitalizing local tourism.

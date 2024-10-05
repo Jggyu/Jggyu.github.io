@@ -18,6 +18,9 @@ sections:
       text: |
 
         {{< icon name="github" pack="fab" >}}
+        {{< icon name="comment" pack="fab" >}}
+        {{< icon name="car" pack="fab" >}}
+        {{< icon name="apple" pack="fab" >}}
 
     design:
       background:
