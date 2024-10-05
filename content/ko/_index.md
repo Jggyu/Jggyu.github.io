@@ -36,56 +36,56 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 시큐어코딩
-        content: '어떠한 웹 해킹 기술도 막아내는...'
+      - title: <span style="font-size:70%">👋 시큐어코딩</span>
+        content: <span style="font-size:70%">어떠한 웹 해킹 기술도 막아내는...</span>
         align: center
         background:
           image:
             filename: secure.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
-          color: '#666'
-      - title: 웹 취약점 점검 ☕️
-        content: '취약점 점검을 통한 웹 보안 강화....'
+          color: '#000'
+      - title: <span style="font-size:70%">웹 취약점 점검 ☕️</span>
+        content: <span style="font-size:70%">취약점 점검을 통한 웹 보안 강화....</span>
         align: left
         background:
           image:
             filename: webattack.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: center
-          color: '#555'
-      - title: 개발
-        content: '완벽한 웹 어플리케이션 개발!'
+          color: '#000'
+      - title: <span style="font-size:70%">개발</span>
+        content: <span style="font-size:70%">완벽한 웹 어플리케이션 개발!</span>
         align: right
         background:
           image:
             filename: dev.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
-          color: '#333'
-      - title: 👋 네트워크 보안
-        content: '강력한 네트워크단의 보안'
+          color: '#000'
+      - title: <span style="font-size:70%">👋 네트워크 보안</span>
+        content: <span style="font-size:70%">'강력한 네트워크단의 보안'</span>
         align: center
         background:
           image:
             filename: network.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
-          color: '#666'
-      - title: 시스템 보안 ☕️
-        content: '어떠한 시스템도 뚫거나 막는..!'
+          color: '#000'
+      - title: <span style="font-size:70%">시스템 보안 ☕️</span>
+        content: <span style="font-size:70%">어떠한 시스템도 뚫거나 막는..!</span>
         align: center
         background:
           image:
             filename: system.jpg
             filters:
-              brightness: 0.7
-          position: right
-          color: '#666'
+              brightness: 0.4
+          position: center
+          color: '#000'
         link:
           icon: graduation-cap
           icon_pack: fas

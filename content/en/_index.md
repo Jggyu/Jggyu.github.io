@@ -35,56 +35,56 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Secure Coding
-        content: 'Blocks any web hacking technology...'
+      - title: <span style="font-size:70%">👋 Secure Coding</span>
+        content: <span style="font-size:70%">Blocks any web hacking technology...</span>
         align: center
         background:
           image:
             filename: secure.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
-          color: '#666'
-      - title: Web vulnerability check ☕️
-        content: 'Strengthening web security through vulnerability checking....!'
+          color: '#000'
+      - title: <span style="font-size:70%">Web vulnerability check ☕️</span>
+        content: <span style="font-size:70%">Strengthening web security through vulnerability checking....!</span>
         align: left
         background:
           image:
             filename: webattack.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: center
-          color: '#555'
-      - title: development
-        content: 'Perfect web application development!'
+          color: '#000'
+      - title: <span style="font-size:70%">development</span>
+        content: <span style="font-size:70%">Perfect web application development!</span>
         align: right
         background:
           image:
             filename: dev.jpg
             filters:
-              brightness: 0.5
+              brightness: 0.4
           position: center
-          color: '#333'
-      - title: 👋 Network Security
-        content: 'Strong network security'
+          color: '#000'
+      - title: <span style="font-size:70%">👋 Network Security</span>
+        content: <span style="font-size:70%">Strong network security</span>
         align: center
         background:
           image:
             filename: network.jpg
             filters:
-              brightness: 0.7
+              brightness: 0.4
           position: right
-          color: '#666'
-      - title: System Security ☕️
-        content: 'Breaking through or blocking any system..!'
+          color: '#000'
+      - title: <span style="font-size:70%">System Security ☕️</span>
+        content: <span style="font-size:70%">Breaking through or blocking any system..!</span>
         align: center
         background:
           image:
             filename: system.jpg
             filters:
-              brightness: 0.7
-          position: right
-          color: '#666'  
+              brightness: 0.4
+          position: center
+          color: '#000'  
         link:
           icon: graduation-cap
           icon_pack: fas
