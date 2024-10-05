@@ -6,26 +6,34 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
-  font: native
+  theme_day: custom_light
+  theme_night: custom_dark
+  font: minimal
   font_size: L
   mode: light
   color: blue
-  light_mode_color:
-    background: "#f5f7fa"  
-    text: "#2d2d2d"  
-    link: "#007acc"
-    button: "#00bfff" 
-    button_text: "#ffffff" 
-    accent: "#ff4081" 
-  dark_mode_color:
-    background: "#181818" 
-    text: "#e8e8e8"  
-    link: "#76c7f4" 
-    button: "#ff4081" 
-    button_text: "#181818"  
-    accent: "#ffcc00" 
+
+# 라이트 모드 커스텀 테마
+custom_light:
+  primary: "#4A90E2"  # 밝은 파란색
+  link: "#4A90E2"
+  link_hover: "#2E5DA8"
+  background: "#FFFFFF"
+  card_background: "#F5F5F5"
+  text: "#333333"
+  text_light: "#666666"
+  border_color: "#E0E0E0"
+  
+# 다크 모드 커스텀 테마  
+custom_dark:
+  primary: "#61AFEF"  # 밝은 하늘색
+  link: "#61AFEF"
+  link_hover: "#9DCCFC"
+  background: "#282C34"
+  card_background: "#3E4451"
+  text: "#DCDDDE"
+  text_light: "#ABB2BF"
+  border_color: "#4B5363"
 
 # SEO
 
