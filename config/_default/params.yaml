@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: rose
+  theme_day: ocean
   theme_night: dark
   font: playfair
   font_size: L
@@ -20,8 +20,8 @@ marketing:
   seo:
     site_type: Person
     local_business_type: ''
-    org_name: '전북대 이진규의 웹'
-    description: '전북대학교 IT정보공학과 이진규의 웹'
+    org_name: '전북대학교'
+    description: '전북대학교 이진규의 개인 홈페이지 - 웹 보안, 취약점 분석, 시큐어 코딩 전문'
     twitter: 'GetResearchDev'
   analytics:
     google_analytics: ''
