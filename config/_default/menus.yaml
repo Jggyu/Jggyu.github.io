@@ -17,33 +17,35 @@ main:
     url: intro2
     weight: 22
   - name: Study
-    url: study
+    url: studies
     weight: 30
+  - name: study
+    parent: Study
+    url: study
+    weight: 31
   - name: Events
+    parent: Study
     url: event
-    weight: 40
-  - name: Publications
-    url: publication
-    weight: 50
+    weight: 32
   - name: Projects
     url: projects
-    weight: 60
+    weight: 40
   - name: itproject
     parent: Projects
     url: itproject
-    weight: 61
+    weight: 41
   - name: webproject
     parent: Projects
     url: webproject
-    weight: 62 
+    weight: 42
   - name: Contact
     url: cont
-    weight: 70
+    weight: 50
   - name: Contact1
     parent: Contact
     url: contact
-    weight: 71
+    weight: 51
   - name: Contact2
     parent: Contact
     url: contact2
-    weight: 72    
+    weight: 52  
