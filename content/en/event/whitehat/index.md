@@ -1,19 +1,19 @@
 ---
-title: 화이트햇 스쿨 2기 졸업식
+title: White Hat School 2nd Graduation Ceremony
 
-event: 화이트햇 스쿨 2기 졸업식
+event: White Hat School 2nd Graduation Ceremony
 event_url: 
 
-location: 엘컨벤션
+location: L Convention
 address:
   street: 
-  city: 서울
-  region: 구로구
+  city: Seoul
+  region: Guro-gu
   postcode: 
-  country: 대한민국
+  country: South Korea
 
-summary: 한국정보기술연구원의 차세대 보안리더 양성 프로그램 '화이트햇 스쿨' 2기 졸업식
-abstract: '한국정보기술연구원이 주관하는 화이트햇 스쿨 2기 졸업식이 개최되었습니다. 이 프로그램은 24세 이하의 초급 인재들에게 최신 정보보안 교육과 기술 멘토링을 제공하여 중급 인재로 성장할 수 있도록 돕는 정보보안 인재 양성 프로그램입니다.'
+summary: Graduation ceremony for the 2nd class of ‘White Hat School’, a next-generation security leader training program of the Korea Institute of Information Technology
+abstract: 'The 2nd graduation ceremony of the White Hat School, hosted by the Korea Institute of Information Technology, was held. This program is an information security talent training program that provides the latest information security education and technical mentoring to entry-level talents under the age of 24 to help them grow into mid-level talents'
 
 # Talk start and end times.
 date: '2024-09-26T14:00:00Z'
@@ -24,13 +24,13 @@ all_day: false
 publishDate: '2024-09-27T00:00:00Z'
 
 authors: []
-tags: [정보보안, 인재양성, 화이트해커]
+tags: [Information security, talent development, white hacker]
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: '출처: https://www.etnews.com/20240926000431'
+  caption: 'source: https://www.etnews.com/20240926000431'
   focal_point: Right
 
 url_code: ''
@@ -43,19 +43,19 @@ slides: ""
 
 # Projects (optional).
 projects:
-  - 화이트햇 스쿨
+  - white hat school
 
 share: false
 ---
 
-한국정보기술연구원(원장 유준상)이 주관하는 차세대 보안리더 양성 프로그램 '화이트햇 스쿨(White Hat School)' 2기 졸업식이 성공적으로 개최되었습니다.
+The second graduation ceremony of ‘White Hat School’, a next-generation security leader training program hosted by the Korea Institute of Information Technology (President Jun-sang Yoo), was successfully held.
 
-주요 내용:
-- 일시: 2024년 9월 26일 오후 2시
-- 장소: 서울 구로구 엘컨벤션
-- 프로그램 목적: 24세 이하 초급 인재를 중급 정보보안 전문가로 양성
-- 제공 내용: 최신 정보보안 입문 교육 프로그램 및 기술 멘토링
+Highlights:
+- Date: September 26, 2024, 2:00 PM
+- Location: El Convention, Guro-gu, Seoul
+- Program purpose: To train entry-level talent under the age of 24 into mid-level information security experts
+- What is provided: Latest information security introductory training program and technical mentoring
 
-화이트햇 스쿨은 2기까지 총 621명의 청년 화이트 해커를 배출하여, 국내 정보보안 인재 양성에 크게 기여하고 있습니다. 이 프로그램을 통해 참가자들은 정보보안 분야의 최신 기술과 트렌드를 학습하고, 실제 현장에서 활용 가능한 실무 능력을 갖추게 됩니다.
+White Hat School has produced a total of 621 young white hackers as of its second term, making a significant contribution to nurturing domestic information security talent. Through this program, participants learn the latest technologies and trends in the information security field and acquire practical skills that can be used in the actual field.
 
-이번 졸업식은 미래 정보보안 산업을 이끌어갈 젊은 인재들의 성장을 축하하고, 그들의 앞으로의 활약을 기대하는 뜻깊은 자리였습니다.
+This graduation ceremony was a meaningful event to celebrate the growth of young talents who will lead the future information security industry and look forward to their future activities.
