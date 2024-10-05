@@ -1,48 +1,34 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+# 안녕하세요, 전북대학교 이진규입니다! 👋
 
-[![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
+## 🎓 소개
+전북대학교 IT정보공학과에서 웹 보안, 취약점 분석, 시큐어 코딩을 중점적으로 공부하고 있는 학부생입니다. 현재 BCG LAB 정보보안 연구실에서 활동중입니다.
 
-The **Research Group Template** empowers your research group to easily create a beautiful website with a stunning homepage, news, academic publications, events, team profiles, and a contact form.
+## 🔒 전문 분야
+- 웹 보안
+- 취약점 분석
+- 시큐어 코딩
 
-️**Trusted by 250,000+ researchers, educators, and students.** Highly customizable via the integrated **no-code, widget-based Wowchemy page builder**, making every site truly personalized ⭐⭐⭐⭐⭐
+## 🚀 현재 진행 중인 연구
+현재 **웹 애플리케이션 보안**에 중점을 두고 연구를 진행 중이며, 특히 최신 공격 기법에 대한 방어 전략 개발에 주력하고 있습니다.
 
-[![Get Started](https://img.shields.io/badge/-Get%20started-ff4655?style=for-the-badge)](https://hugoblox.com/hugo-themes/)
-[![Discord](https://img.shields.io/discord/722225264733716590?style=for-the-badge)](https://discord.com/channels/722225264733716590/742892432458252370/742895548159492138)  
-[![Twitter Follow](https://img.shields.io/twitter/follow/GetResearchDev?label=Follow%20on%20Twitter)](https://twitter.com/wowchemy)
+## 🎯 목표
+1. 혁신적인 웹 보안 솔루션 개발
+2. 취약점 자동 탐지 시스템 구축
+3. 보안 인식 제고를 위한 교육 프로그램 설계
 
-Easily write technical content with plain text Markdown, LaTeX math, diagrams, RMarkdown, or Jupyter, and import publications from BibTeX.
+## 💡 최근 관심사
+최근에는 최신 기술을 활용한 보안 솔루션 개발에도 관심을 갖고 연구를 확장하고 있습니다.
 
-[Check out the latest demo](https://research-group.netlify.app/) of what you'll get in less than 60 seconds, or [view the showcase](https://hugoblox.com/creators/).
+## 🤝 연락처 및 소셜 미디어
+- 📧 Email: zmfltmvl@jbnu.ac.kr
+- 💼 LinkedIn: [이진규의 LinkedIn](https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/)
+- 🌐 Blog: [이진규의 Blog](https://velog.io/@zmfltmvl/posts)
 
-The integrated [**Wowchemy**](https://hugoblox.com) website builder and CMS makes it easy to create a beautiful website for free. Edit your site in the CMS (or your favorite editor), generate it with [Hugo](https://github.com/gohugoio/hugo), and deploy with GitHub or Netlify. Customize anything on your site with widgets, light/dark themes, and language packs.
+## 📚 프로젝트 및 활동
+- ALPS 동아리에서 자료구조 및 알고리즘 Basic 스터디 진행 중
+- 웹 해킹 기초 스터디 멘토 활동
+- 화이트햇 스쿨 수료
 
-- 👉 [**Get Started**](https://hugoblox.com/hugo-themes/)
-- 📚 [View the **documentation**](https://docs.hugoblox.com/)
-- 💬 [Chat with the **Wowchemy research community**](https://discord.gg/z8wNYzb) or [**Hugo community**](https://discourse.gohugo.io)
-- ⬇️ **Automatically import citations from BibTeX** with the [Hugo Academic CLI](https://github.com/GetRD/academic-file-converter)
-- 🐦 Share your new site with the community: [@wowchemy](https://twitter.com/wowchemy) [@GeorgeCushen](https://twitter.com/GeorgeCushen) [#MadeWithWowchemy](https://twitter.com/search?q=%23MadeWithWowchemy&src=typed_query)
-- 🗳 [Take the survey and help us improve #OpenSource](https://forms.gle/NioD9VhUg7PNmdCAA)
-- 🚀 [Contribute improvements](https://github.com/HugoBlox/hugo-blox-builder/blob/main/CONTRIBUTING.md) or [suggest improvements](https://github.com/HugoBlox/hugo-blox-builder/issues)
-- ⬆️ **Updating?** View the [Update Guide](https://docs.hugoblox.com/hugo-tutorials/update/) and [Release Notes](https://github.com/HugoBlox/hugo-blox-builder/releases)
+> "보안은 단순한 기술이 아닌, 우리 모두의 책임입니다. 저는 이 신념을 바탕으로 더 안전한 디지털 세상을 만들어가고자 합니다."
 
-## We ask you, humbly, to support this open source movement
-
-Today we ask you to defend the open source independence of the Wowchemy website builder and themes 🐧
-
-We're an open source movement that depends on your support to stay online and thriving, but 99.9% of our creators don't give; they simply look the other way.
-
-### [❤️ Click here to become a GitHub Sponsor, unlocking awesome perks such as _exclusive academic templates and widgets_](https://github.com/sponsors/gcushen)
-
-## Demo credits
-
-Please replace the demo images with your own.
-
-- [Female scientist](https://unsplash.com/photos/uVnRa6mOLOM)
-- [2 Coders](https://unsplash.com/photos/kwzWjTnDPLk)
-- [Cafe](https://unsplash.com/photos/RnDGGnMEOao)
-- Blog posts
-  - https://unsplash.com/photos/AndE50aaHn4
-  - https://unsplash.com/photos/OYzbqk2y26c
-- Avatars
-  - https://unsplash.com/photos/5yENNRbbat4
-  - https://unsplash.com/photos/WNoLnJo7tS8
+항상 새로운 도전과 협력의 기회를 환영합니다. 함께 논의하고 성장할 수 있는 기회가 있다면 언제든 연락 주세요!
