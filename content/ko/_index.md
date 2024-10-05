@@ -13,7 +13,7 @@ sections:
         
         ## {{< icon name="shield-alt" pack="fas" >}}**전북대학교에 재학중인 IT정보공학과 이진규입니다!**
         
-        #### 웹 해킹 및 네트워크 분야에 관심을 가지고 연구 및 공부하고 있습니다!
+        #### {{< icon name="hackerrank" pack="fab" >}}웹 해킹 및 네트워크 분야에 관심을 가지고 연구 및 공부하고 있습니다!{{< icon name="network-wired" pack="fas" >}}
 
         #### **웹 보안**, **취약점 분석**, **시큐어 코딩** 전문가를 꿈꾸며{{< icon name="search" pack="fas" >}}
         
