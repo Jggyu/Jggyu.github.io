@@ -31,7 +31,7 @@ featured: true
 
 image:
   caption: 'Oasis Hackathon 2024'
-  focal_point: Center
+  focal_point: Right
 
 url_code: ''
 url_pdf: ''
