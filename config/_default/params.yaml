@@ -43,8 +43,8 @@ header:
     show_search: true
     highlight_active_link: true
 
-params:
-  logo: logo.png
+logo:
+  text: "Jggyu"
 
 # Site footer
 
@@ -112,6 +112,14 @@ features:
       ai: true
       fas: true
       fab: true
+  media:
+    allow_img_cropping: true
+
+search:
+  navbar:
+    enable: true
+    align: right
+    highlight: true
 
 # Extensions
 
