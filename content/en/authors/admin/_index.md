@@ -13,6 +13,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+tags: ["Jeonbuk National University", "Web Security"]
+
 # Role/position
 role: Undergraduate Student in IT Information Engineering
 

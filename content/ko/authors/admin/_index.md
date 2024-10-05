@@ -13,6 +13,8 @@ authors:
 # Is this the primary user of the site?
 superuser: true
 
+tags: ["전북대학교", "웹 보안"]
+
 # Role/position
 role: IT정보공학과 학부생
 
