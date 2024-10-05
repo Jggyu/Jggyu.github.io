@@ -56,3 +56,7 @@ email: 'zmfltmvl@jbnu.ac.kr'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+This is Lee Jin-gyu, Class of 20, **IT Information Engineering Department, Chonbuk National University!
+
+We are researching and studying **web hacking**, **vulnerability analysis**, and **secure coding**!

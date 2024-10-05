@@ -2,22 +2,22 @@ main:
   - name: Home
     url: /
     weight: 1
+  - name: About
+    url: about
+    weight: 10
   - name: Intro
     url: introduce
-    weight: 10
+    weight: 20
   - name: Intro1
     parent: Intro
     url: /author/이진규/
-    weight: 11
+    weight: 21
   - name: Intro2
     parent: Intro
     url: intro2
-    weight: 12
+    weight: 22
   - name: News
     url: post
-    weight: 20
-  - name: People
-    url: people
     weight: 30
   - name: Events
     url: event
