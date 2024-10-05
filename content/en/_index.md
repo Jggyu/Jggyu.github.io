@@ -12,9 +12,9 @@ sections:
       text: |
         ## {{< icon name="shield-alt" pack="fas" >}}**This is Jinkyu Lee, majoring in IT and Information Engineering at Chonbuk National University!**
         
-        Dreaming of becoming an expert in **web security**, **vulnerability analysis**, and **secure coding**{{< icon name="search" pack="fas" >}}
+        #### Dreaming of becoming an expert in **web security**, **vulnerability analysis**, and **secure coding**{{< icon name="search" pack="fas" >}}
         
-        {{< icon name="code" pack="fas" >}}We are passionate about developing innovative **web security solutions**{{< icon name="lock" pack="fas" >}}
+        #### {{< icon name="code" pack="fas" >}}We are passionate about developing innovative **web security solutions**{{< icon name="lock" pack="fas" >}}
     design:
       background:
         gradient_start: '#e6d5e6'

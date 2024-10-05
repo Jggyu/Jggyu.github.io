@@ -11,7 +11,6 @@ appearance:
   font: playfair
   font_size: L
   background: 'linear-gradient(to right, #f6d365 0%, #fda085 100%)'
-  mode: light
   color: pink
 
 # SEO
