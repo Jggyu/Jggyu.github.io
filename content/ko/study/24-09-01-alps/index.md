@@ -1,6 +1,6 @@
 ---
 title: ALPS 동아리 - 자료구조 및 알고리즘 Basic 스터디 진행 중
-date: 2024-04-01
+date: 2024-09-01
 image:
   focal_point: 'top'
 ---

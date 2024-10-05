@@ -1,16 +1,64 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
+title: 웹 해킹 기초 스터디 진행 중
 date: 2024-10-01
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+웹 해킹 기초 스터디가 활발히 진행되고 있습니다.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+웹 보안에 대한 이해와 실무 능력 향상을 위한 웹 해킹 기초 스터디를 운영 중입니다. 매주 1회 정기적인 모임을 통해 웹 해킹의 기본 개념부터 실제 취약점 분석 및 대응 방법까지 다양한 주제를 학습하고 있습니다.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+## 현재까지의 학습 내용:
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+1. 웹 해킹 개요
+   - 웹 해킹의 정의와 유형
+   - 해킹의 윤리적 측면과 법적 고려사항
+
+2. 웹 애플리케이션 기초
+   - HTTP/HTTPS 프로토콜 이해
+   - 웹 브라우저와 웹 서버의 상호작용
+
+3. 기본적인 웹 취약점
+   - SQL 인젝션 기초
+   - 크로스 사이트 스크립팅(XSS) 개요
+   - 크로스 사이트 요청 위조(CSRF) 소개
+
+4. 웹 해킹 도구 소개
+   - Burp Suite 기본 사용법
+   - OWASP ZAP 소개
+
+## 앞으로의 학습 계획:
+
+1. 고급 웹 취약점
+   - 서버 사이드 요청 위조(SSRF)
+   - XML 외부 개체 인젝션(XXE)
+   - 안전하지 않은 역직렬화
+
+2. 인증 및 세션 관리 취약점
+   - 취약한 인증 메커니즘 분석
+   - 세션 하이재킹 기법
+
+3. 클라이언트 사이드 취약점
+   - DOM 기반 XSS
+   - 클릭재킹
+
+4. 웹 애플리케이션 방어 기법
+   - 시큐어 코딩 기초
+   - 웹 방화벽(WAF) 이해와 우회 기법
+
+5. 실전 모의해킹 연습
+   - OWASP WebGoat를 이용한 실습
+   - 실제 취약한 웹 애플리케이션 분석
+
+스터디는 이진규 멘토의 지도 하에 체계적인 커리큘럼을 바탕으로 진행되고 있으며, 멤버들의 적극적인 참여와 토론이 이루어지고 있습니다. 매 세션마다 이론 학습과 함께 실제 취약점 시연 및 대응 방법 실습을 병행하여 실질적인 웹 해킹 스킬 향상에 중점을 두고 있습니다.
+
+특히, 각 주제별로 진행되는 CTF(Capture The Flag) 스타일의 미니 챌린지를 통해 학습한 내용을 즉시 적용해볼 수 있는 기회를 제공하고 있습니다. 이를 통해 참가자들은 실제 웹 해킹 시나리오에 대한 경험을 쌓고 있습니다.
+
+현재까지의 스터디 진행 결과, 참가자들의 웹 보안에 대한 이해도가 크게 향상되었으며, 기본적인 취약점 분석 능력도 점진적으로 개선되고 있는 것으로 나타났습니다.
+
+이번 웹 해킹 기초 스터디를 통해 참가자들이 향후 보안 관련 경진대회 참가나 모의해킹 테스터로서의 경력을 시작할 수 있는 기반을 마련할 수 있을 것으로 기대하고 있습니다. 스터디 완료 후에는 참가자들의 피드백을 바탕으로 더 심화된 웹 해킹 고급 과정을 기획할 예정입니다.
+
+이 스터디가 멤버들의 웹 보안 역량 향상과 앞으로의 사이버 보안 커리어에 튼튼한 기반이 되기를 희망합니다. 멘토로서 모든 참가자들의 지속적인 열정과 노력을 응원하며, 함께 성장해 나가길 기대합니다.
