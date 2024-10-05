@@ -27,11 +27,11 @@ authors: []
 tags: [정보보안, 인재양성, 화이트해커]
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
-  caption: '화이트햇 스쿨 2기 졸업식'
-  focal_point: Center
+  caption: '출처: https://www.etnews.com/20240926000431'
+  focal_point: Right
 
 url_code: ''
 url_pdf: ''

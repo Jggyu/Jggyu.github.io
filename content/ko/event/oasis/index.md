@@ -30,7 +30,7 @@ tags: [해커톤, 여행, 플랫폼, 공공API]
 featured: true
 
 image:
-  caption: 'Oasis Hackathon 2024'
+  caption: '출처: https://www.aipostkorea.com/news/articleView.html?idxno=3341'
   focal_point: Right
 
 url_code: ''
