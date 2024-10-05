@@ -10,6 +10,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |
+        &nbsp;
         
         ## {{< icon name="shield-alt" pack="fas" >}}**전북대학교에 재학중인 IT정보공학과 이진규입니다!**
         
