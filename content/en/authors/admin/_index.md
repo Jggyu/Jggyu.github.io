@@ -1,6 +1,6 @@
 ---
 # Display name
-title: lee-jin-gyu
+title: Lee Jin Gyu
 
 # Full name (for SEO)
 first_name: Jin Gyu

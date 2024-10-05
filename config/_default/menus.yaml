@@ -5,9 +5,6 @@ main:
   - name: Intro
     url: /author/이진규/
     weight: 10
-  - name: enIntro
-    url: /author/lee-jin-gyu/
-    weight: 11
   - name: About
     url: about
     weight: 20
