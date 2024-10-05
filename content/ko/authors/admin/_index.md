@@ -34,7 +34,6 @@ education:
     - course: IT정보공학과 학부생
       institution: 전북대학교
       year: 현재
-  courses:
     - course: BCG LAB 정보보안 연구실
       institution: 전북대학교
 
