@@ -1,16 +1,57 @@
 ---
-title: Jian Yang and Monica Hall Win the Best Paper Award at Wowchemy 2020
-date: 2024-09-01
+title: ALPS 동아리 - 자료구조 및 알고리즘 Basic 스터디 진행 중
+date: 2024-04-01
 image:
   focal_point: 'top'
 ---
 
-Congratulations to Jian Yang and Monica Hall for winning the Best Paper Award at the 2020 Conference on Wowchemy for their paper “Learning Wowchemy”.
+ALPS 동아리에서 자료구조 및 알고리즘 Basic 스터디가 활발히 진행되고 있습니다.
 
 <!--more-->
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
+현재 ALPS 동아리는 프로그래밍 실력 향상을 위한 자료구조 및 알고리즘 Basic 스터디를 운영 중입니다. 매주 2회 정기적인 모임을 통해 기초적인 자료구조부터 기본 알고리즘까지 다양한 주제를 학습하고 있습니다.
 
-Sed eu dui nec ligula bibendum dapibus. Nullam imperdiet auctor tortor, vel cursus mauris malesuada non. Quisque ultrices euismod dapibus. Aenean sed gravida risus. Sed nisi tortor, vulputate nec quam non, placerat porta nisl. Nunc varius lobortis urna, condimentum facilisis ipsum molestie eu. Ut molestie eleifend ligula sed dignissim. Duis ut tellus turpis. Praesent tincidunt, nunc sed congue malesuada, mauris enim maximus massa, eget interdum turpis urna et ante. Morbi sem nisl, cursus quis mollis et, interdum luctus augue. Aliquam laoreet, leo et accumsan tincidunt, libero neque aliquet lectus, a ultricies lorem mi a orci.
+## 현재까지의 학습 내용:
 
-Mauris dapibus sem vel magna convallis laoreet. Donec in venenatis urna, vitae sodales odio. Praesent tortor diam, varius non luctus nec, bibendum vel est. Quisque id sem enim. Maecenas at est leo. Vestibulum tristique pellentesque ex, blandit placerat nunc eleifend sit amet. Fusce eget lectus bibendum, accumsan mi quis, luctus sem. Etiam vitae nulla scelerisque, eleifend odio in, euismod quam. Etiam porta ullamcorper massa, vitae gravida turpis euismod quis. Mauris sodales sem ac ultrices viverra. In placerat ultrices sapien. Suspendisse eu arcu hendrerit, luctus tortor cursus, maximus dolor. Proin et velit et quam gravida dapibus. Donec blandit justo ut consequat tristique.
+1. 기본 자료구조
+   - 배열과 연결 리스트
+   - 스택과 큐
+   - 트리 기초
+
+2. 기초 알고리즘
+   - 정렬 알고리즘 (버블, 선택, 삽입)
+   - 탐색 알고리즘 (선형 탐색, 이진 탐색)
+   - 재귀 알고리즘 입문
+
+3. 문제 해결 전략
+   - 브루트 포스 접근법
+   - 간단한 그리디 알고리즘 소개
+
+## 앞으로의 학습 계획:
+
+1. 고급 자료구조
+   - 그래프
+   - 해시 테이블
+
+2. 추가 알고리즘
+   - 고급 정렬 알고리즘 (퀵, 머지)
+   - 동적 프로그래밍 기초
+   - 백트래킹 입문
+
+3. 심화 문제 해결 전략
+   - 분할 정복
+   - 더 복잡한 그리디 알고리즘 케이스
+
+4. 코딩 테스트 대비
+   - 시간 복잡도와 공간 복잡도 분석
+   - 실전 문제 풀이 및 코드 리뷰 세션
+
+스터디는 체계적인 커리큘럼을 바탕으로 진행되고 있으며, 멤버들의 적극적인 참여와 토론이 이루어지고 있습니다. 매 세션마다 이론 학습과 함께 관련 문제 풀이를 병행하여 실질적인 코딩 능력 향상에 중점을 두고 있습니다.
+
+특히, 각 주제별로 진행되는 코드 리뷰 세션을 통해 다양한 해결 방법을 공유하고 코드 품질을 개선하는 기회를 가지고 있습니다. 이를 통해 참가자들은 자신의 코드를 객관적으로 평가받고 개선할 수 있는 valuable한 경험을 쌓고 있습니다.
+
+현재까지의 스터디 진행 결과, 참가자들의 알고리즘적 사고력이 점진적으로 향상되고 있으며, 기본적인 문제 해결 능력도 크게 개선되고 있는 것으로 나타났습니다.
+
+ALPS 동아리는 이번 Basic 스터디를 통해 참가자들이 프로그래밍 대회 및 코딩 테스트에 대한 기초적인 준비를 할 수 있을 것으로 기대하고 있습니다. 스터디 완료 후에는 참가자들의 피드백을 바탕으로 다음 학기에 진행할 Advanced 스터디의 방향을 결정할 예정입니다.
+
+이 스터디가 ALPS 동아리 멤버들의 프로그래밍 실력 향상과 앞으로의 개발 커리어에 탄탄한 기반이 되기를 희망합니다. 모든 참가자들의 지속적인 열정과 노력을 기대합니다.
