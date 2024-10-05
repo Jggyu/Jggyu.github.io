@@ -6,7 +6,7 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
+  theme_day: mr_robot
   theme_night: dark
   font: native
   font_size: L
@@ -43,6 +43,8 @@ header:
     show_search: true
     highlight_active_link: true
 
+params:
+  logo: icon.png  
 
 # Site footer
 
