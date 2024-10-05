@@ -15,13 +15,25 @@ body {
 }
 
 .btn.btn-primary.px-3.py-3 {
-  background-color: #00a6ff;  // 기본 버튼 색상
+  background-color: #7BDFF2; 
   color: #ffffff; 
   padding: 1rem 1.5rem;
-  
+
   &:hover {
-    background-color: #05f7cf; 
-    color: #f8f9fa; 
-    transition: background-color 0.3s ease; 
+    background-color: #F7D6E0;
+    color: #ffffff;
+    transition: background-color 0.3s ease;
+  }
+}
+
+.btn.btn-primary.px-3.py-2 {
+  background-color: #7BDFF2; 
+  color: #ffffff; 
+  padding: 1rem 1.5rem;
+
+  &:hover {
+    background-color: #F7D6E0;
+    color: #ffffff;
+    transition: background-color 0.3s ease;
   }
 }
