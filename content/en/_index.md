@@ -10,11 +10,15 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |
+        &nbsp;
+
         ## {{< icon name="shield-alt" pack="fas" >}}**This is Jinkyu Lee, majoring in IT and Information Engineering at Chonbuk National University!**
         
+        #### {{< icon name="hackerrank" pack="fab" >}}I am researching and studying the web hacking/network field with interest!{{< icon name="network-wired" pack=" fas" >}}
+
         #### Dreaming of becoming an expert in **web security**, **vulnerability analysis**, and **secure coding**{{< icon name="search" pack="fas" >}}
         
-        #### {{< icon name="code" pack="fas" >}}We are passionate about developing innovative **web security solutions**{{< icon name="lock" pack="fas" >}}
+        #### {{< icon name="code" pack="fas" >}}We are passionate about developing innovative **web security solutions**{{< icon name="lock" pack="fas" > }}
     design:
       background:
         gradient_start: '#e6d5e6'
