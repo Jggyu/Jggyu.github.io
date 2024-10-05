@@ -43,7 +43,7 @@ header:
     show_search: true
     highlight_active_link: true
     brand:
-      name: "전북대학교 이진규의 웹"
+      name: "{{ .Site.Title }}"
 
 
 # Site footer
