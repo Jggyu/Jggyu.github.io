@@ -37,7 +37,3 @@ main:
     parent: Contact
     url: contact
     weight: 51
-  - name: Contact2
-    parent: Contact
-    url: contact2
-    weight: 52  
