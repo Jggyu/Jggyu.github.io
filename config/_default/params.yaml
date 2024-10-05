@@ -8,7 +8,7 @@
 appearance:
   theme_day: ocean
   theme_night: dark
-  font: minimal
+  font: mr_robot
   font_size: L
   mode: light
   color: pink
@@ -43,11 +43,8 @@ header:
     show_search: true
     highlight_active_link: true
 
-logo:
-  image: "icon.png"
-  image_dark: "icon.png"
-  alt: "My Logo"
-  link: "/"
+params:
+  logo: "images/logo.png" 
 
 # Site footer
 
