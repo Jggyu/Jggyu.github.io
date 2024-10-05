@@ -10,8 +10,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |
+        
         ## {{< icon name="shield-alt" pack="fas" >}}**전북대학교에 재학중인 IT정보공학과 이진규입니다!**
         
+        #### 웹 해킹 및 네트워크 분야에 관심을 가지고 연구 및 공부하고 있습니다!
+
         #### **웹 보안**, **취약점 분석**, **시큐어 코딩** 전문가를 꿈꾸며{{< icon name="search" pack="fas" >}}
         
         #### {{< icon name="code" pack="fas" >}}혁신적인 **웹 보안 솔루션 개발**에 열정을 쏟고 있습니다{{< icon name="lock" pack="fas" >}}
