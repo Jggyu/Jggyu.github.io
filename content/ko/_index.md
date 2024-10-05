@@ -136,7 +136,7 @@ sections:
       order: desc
       page_type: webproject
     design:
-      view: community/custom_compact
+      view: community/custom_card2
       columns: '1'
 
   - block: collection
