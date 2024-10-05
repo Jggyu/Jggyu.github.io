@@ -98,4 +98,19 @@ highlight_name: true
 
 ## 관심
 
-{{< icon name="shield-alt" pack="fas" >}}
+{{< icon name="docker" pack="fab" >}}
+{{< icon name="linux" pack="fab" >}}
+{{< icon name="python" pack="fab" >}}
+
+{{< icon name="react" pack="fab" >}}
+{{< icon name="node-js" pack="fab" >}}
+
+{{< icon name="php" pack="fab" >}}
+
+{{< icon name="html5" pack="fab" >}}
+{{< icon name="css3" pack="fab" >}}
+{{< icon name="js" pack="fab" >}}
+
+{{< icon name="git" pack="fab" >}}
+
+{{< icon name="flutter" pack="fab" >}}
