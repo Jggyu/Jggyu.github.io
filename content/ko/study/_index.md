@@ -1,5 +1,5 @@
 ---
-title: Latest Study
+title: 최근 스터디
 
 # Listing view
 view: compact
