@@ -110,9 +110,6 @@ features:
       ai: true
       fas: true
       fab: true
-  biography:
-    show_certificates: true
-    show_summary: true
 
 # Extensions
 
