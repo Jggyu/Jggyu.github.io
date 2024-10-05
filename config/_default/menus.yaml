@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: Profile
-    url: /author/이진규/
+    url: /author/name/
     weight: 10
   - name: About
     url: about
