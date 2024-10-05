@@ -3,7 +3,7 @@ main:
     url: /
     weight: 1
   - name: Profile
-    url: /author/admin/
+    url: profile
     weight: 10
   - name: About
     url: about
