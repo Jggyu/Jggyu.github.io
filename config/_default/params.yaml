@@ -6,12 +6,13 @@
 # Appearance
 
 appearance:
-  theme_day: rose
+  theme_day: strawberry
   theme_night: dark
   font: native
   font_size: L
   mode: light
   color: pink
+  dark_mode_toggler: true
 
 # SEO
 
@@ -55,9 +56,7 @@ footer:
       allow_commercial: false
 
 logo:
-  icon:
-    image: 'icon.png'
-    image_alt: 'My icon'
+  icon: media/logo.png
 
 # Localization
 
