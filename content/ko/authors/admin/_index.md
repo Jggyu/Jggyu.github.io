@@ -96,21 +96,26 @@ highlight_name: true
 
 앞으로도 끊임없는 학습과 연구를 통해 사이버 보안 분야의 발전에 기여하고자 합니다. 함께 논의하고 성장할 수 있는 기회를 언제나 환영합니다!
 
-## 관심
+## 🛠 관심 기술 스택
 
-{{< icon name="docker" pack="fab" >}}
-{{< icon name="linux" pack="fab" >}}
-{{< icon name="python" pack="fab" >}}
+### 배포 및 관리
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-{{< icon name="react" pack="fab" >}}
-{{< icon name="node-js" pack="fab" >}}
+### 프론트엔드
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-{{< icon name="php" pack="fab" >}}
+### 웹 개발 및 백엔드
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-{{< icon name="html5" pack="fab" >}}
-{{< icon name="css3" pack="fab" >}}
-{{< icon name="js" pack="fab" >}}
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-{{< icon name="git" pack="fab" >}}
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-{{< icon name="flutter" pack="fab" >}}
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### 버전 관리 & 모바일 개발
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
