@@ -53,7 +53,7 @@ social:
     icon_pack: fab
     link: https://app.slack.com/client/T07QBT8SKU6/C07QJDDSP5H
   - icon: blog
-    icon_pack: fab
+    icon_pack: fas
     link: https://velog.io/@zmfltmvl/posts
     
 
