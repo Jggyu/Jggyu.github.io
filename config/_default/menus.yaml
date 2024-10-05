@@ -2,11 +2,11 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: About
-    url: about
-    weight: 10
   - name: Intro
     url: /author/이진규/
+    weight: 10
+  - name: About
+    url: about
     weight: 20
   - name: Study
     url: studies
