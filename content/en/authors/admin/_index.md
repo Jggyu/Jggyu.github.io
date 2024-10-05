@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 이진규
+title: lee-jin-gyu
 
 # Full name (for SEO)
 first_name: Jin Gyu
