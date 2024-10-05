@@ -56,3 +56,8 @@ email: 'zmfltmvl@jbnu.ac.kr'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+
+
+전북대학교 **IT정보공학과** 20학번 이진규입니다!
+
+**웹 해킹**, **취약점 분석**, **시큐어 코딩**에 관해 연구 및 공부를 하고있습니다!
