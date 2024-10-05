@@ -6,9 +6,9 @@
 # Appearance
 
 appearance:
-  theme_day: strawberry
+  theme_day: ocean
   theme_night: dark
-  font: native
+  font: mr_robot
   font_size: L
   mode: light
   color: pink
@@ -54,9 +54,6 @@ footer:
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
-
-logo:
-  icon: media/logo.png
 
 # Localization
 
