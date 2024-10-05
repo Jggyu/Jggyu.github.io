@@ -64,6 +64,9 @@ highlight_name: true
 
 # Hello, this is Jin-gyu Lee of Chonbuk National University.
 
+&nbsp;
+&nbsp;
+
 ## 🔒 Areas of expertise
 
 I am deeply fascinated by the world of **Information Security**, and am particularly focused on the following areas:
@@ -72,9 +75,13 @@ I am deeply fascinated by the world of **Information Security**, and am particul
 - 🕵️‍♂️ Web vulnerability analysis and response
 - 🔍 Penetration Testing
 
+&nbsp;
+
 ## 🎯 Current Research Focus
 
 Currently, I am conducting research focusing on **Web Application Security**, especially *developing defense strategies against the latest attack techniques*.
+
+&nbsp;
 
 ## 🚀 Goal
 
@@ -88,13 +95,19 @@ Currently, I am conducting research focusing on **Web Application Security**, es
 
 ---
 
+&nbsp;
+
 ## 💡 Recent Interests
 
 We are deeply interested in improving web security through these areas, and are actively conducting research on related topics. In particular, we have recently been expanding our research with interest in **development of security solutions using the latest technology**.
 
+&nbsp;
+
 ## 🤝 Cooperation and growth
 
 We will continue to contribute to the development of the cybersecurity field through continuous learning and research. We always welcome opportunities to discuss and grow together!
+
+&nbsp;
 
 ## ☁️ Related technology stack
 
