@@ -34,12 +34,13 @@ education:
     - course: IT정보공학과 학부생
       institution: 전북대학교
       year: 현재
+education:
+  summary: BCG LAB 정보보안 연구실
   
-summary: BCG LAB 정보보안 연구실
-  
-certificates:
-  - 정보처리기능사
-  - 네트워크 관리사 2급
+education:
+  certificates:
+    - 정보처리기능사
+    - 네트워크 관리사 2급
 
 # Social/Academic Networking
 social:
