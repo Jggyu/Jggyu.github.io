@@ -14,7 +14,25 @@ sections:
         
         #### **웹 보안**, **취약점 분석**, **시큐어 코딩** 전문가를 꿈꾸며{{< icon name="search" pack="fas" >}}
         
-        #### {{< icon name="code" pack="fas" >}}혁신적인 **웹 보안 솔루션 개발**에 열정을 쏟고 있습니다{{< icon name="lock" pack="fas" >}} 
+        #### {{< icon name="code" pack="fas" >}}혁신적인 **웹 보안 솔루션 개발**에 열정을 쏟고 있습니다{{< icon name="lock" pack="fas" >}}
+
+
+        {{< icon name="docker" pack="fab" >}}{{< icon name="linux" pack="fab" >}}
+        
+        {{< icon name="python" pack="fab" >}}
+
+        {{< icon name="react" pack="fab" >}}
+        {{< icon name="node-js" pack="fab" >}}
+
+        {{< icon name="php" pack="fab" >}}
+
+        {{< icon name="html5" pack="fab" >}}
+        {{< icon name="css3" pack="fab" >}}
+        {{< icon name="js" pack="fab" >}}
+
+        {{< icon name="git" pack="fab" >}}
+
+        {{< icon name="flutter" pack="fab" >}}
 
     design:
       background:
