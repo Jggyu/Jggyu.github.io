@@ -31,9 +31,5 @@ main:
     url: webproject
     weight: 42
   - name: Contact
-    url: cont
-    weight: 50
-  - name: Contact1
-    parent: Contact
     url: contact
-    weight: 51
+    weight: 50
