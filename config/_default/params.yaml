@@ -8,8 +8,9 @@
 appearance:
   theme_day: ocean
   theme_night: dark
-  font: mr_robot
+  font: playfair
   font_size: L
+  background: 'linear-gradient(to right, #f6d365 0%, #fda085 100%)'
   mode: light
   color: pink
 
@@ -44,7 +45,7 @@ header:
     highlight_active_link: true
 
 params:
-  logo: "images/logo.png" 
+  logo: logo.png
 
 # Site footer
 
