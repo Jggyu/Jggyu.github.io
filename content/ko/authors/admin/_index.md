@@ -63,7 +63,7 @@ email: 'zmfltmvl@jbnu.ac.kr'
 highlight_name: true
 ---
 
-# 안녕하세요, 전북대학교에 IT정보공학과에 재학중인 20학번 이진규입니다.
+# 안녕하세요, 전북대학교에 IT정보공학과에 재학중인 20학번 **이진규**입니다.
 
 &nbsp;
 
