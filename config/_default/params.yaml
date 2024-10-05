@@ -10,30 +10,34 @@ appearance:
   theme_night: custom_dark
   font: minimal
   font_size: L
-  mode: light
-  color: blue
 
-# 라이트 모드 커스텀 테마
 custom_light:
-  primary: "#4A90E2"  # 밝은 파란색
-  link: "#4A90E2"
-  link_hover: "#2E5DA8"
-  background: "#FFFFFF"
-  card_background: "#F5F5F5"
-  text: "#333333"
-  text_light: "#666666"
+  primary: "#FF6B6B"  
+  link: "#4ECDC4"  
+  link_hover: "#45B7AA"
+  background: "#F7FFF7" 
+  card_background: "#FFFFFF"
+  text: "#2C3E50" 
+  text_light: "#5D6D7E"
   border_color: "#E0E0E0"
-  
-# 다크 모드 커스텀 테마  
+  menu_primary: "#FF6B6B"
+  menu_text: "#FFFFFF"  
+  menu_text_active: "#4ECDC4" 
+  menu_title: "#FFFFFF"
+
 custom_dark:
-  primary: "#61AFEF"  # 밝은 하늘색
-  link: "#61AFEF"
-  link_hover: "#9DCCFC"
-  background: "#282C34"
-  card_background: "#3E4451"
-  text: "#DCDDDE"
-  text_light: "#ABB2BF"
+  primary: "#FFD93D" 
+  link: "#4ECDC4" 
+  link_hover: "#6FE7DB"
+  background: "#1A1A2E" 
+  card_background: "#16213E"
+  text: "#E9E9E9"
+  text_light: "#B0B0B0"
   border_color: "#4B5363"
+  menu_primary: "#FFD93D" 
+  menu_text: "#1A1A2E"  
+  menu_text_active: "#4ECDC4" 
+  menu_title: "#1A1A2E"
 
 # SEO
 
