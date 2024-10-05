@@ -12,6 +12,14 @@ appearance:
   font_size: L
   mode: light
   color: blue
+  light_mode_color:
+    background: "#ffffff"
+    text: "#333333" 
+    link: "#0066cc"
+  dark_mode_color:
+    background: "#ffffff" 
+    text: "#e0e0e0" 
+    link: "#66ccff"
 
 # SEO
 
