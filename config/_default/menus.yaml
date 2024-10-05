@@ -2,8 +2,8 @@ main:
   - name: Home
     url: /
     weight: 1
-  - name: Intro
-    url: /author/이진규/
+  - name: Profile
+    url: profile
     weight: 10
   - name: About
     url: about
