@@ -7,8 +7,6 @@ slug: "name"
 first_name: 진규
 last_name: 이
 
-image: "icon.png"
-
 # Username (this should match the folder name)
 authors:
   - admin
