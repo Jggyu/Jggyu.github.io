@@ -37,9 +37,6 @@ education:
 
 # Social/Academic Networking
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: 'zmfltmvl@hotmail.co.kr'
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/%EC%A7%84%EA%B7%9C-%EC%9D%B4-b5027b331/
@@ -49,9 +46,6 @@ social:
   - icon: file-alt
     icon_pack: fas
     link: uploads/network1.pdf
-  - icon: slack
-    icon_pack: fab
-    link: https://app.slack.com/client/T07QBT8SKU6/C07QJDDSP5H
   - icon: blog
     icon_pack: fas
     link: https://velog.io/@zmfltmvl/posts
