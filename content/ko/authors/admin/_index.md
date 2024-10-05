@@ -28,7 +28,7 @@ organizations:
 bio: 전북대학교에서 웹 보안, 취약점 분석, 시큐어 코딩을 중심으로 보안을 공부하고 있습니다.
 
 interests:
-  - {{< icon name="shield-alt" pack="fas" >}}웹 보안
+  - 웹 보안
   - 취약점 분석
   - 시큐어코딩
 
