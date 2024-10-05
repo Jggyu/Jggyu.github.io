@@ -4,6 +4,10 @@ date: 2022-10-24
 
 type: landing
 
+banner:
+  caption: ''
+  image: 'aboutsum.jpg'
+
 sections:
   - block: features
     content:
