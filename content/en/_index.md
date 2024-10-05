@@ -10,9 +10,11 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       text: |
-        Lee Jin Gyu is an undergraduate student studying Security at Jeonbuk National University. 
-        His research focuses on web security, web vulnerability analysis, and secure coding. 
-        He is deeply interested in improving web security through these areas and is actively conducting research on related topics.
+        ## {{< icon name="shield-alt" pack="fas" >}}**This is Jinkyu Lee, majoring in IT and Information Engineering at Chonbuk National University!**
+        
+        Dreaming of becoming an expert in **web security**, **vulnerability analysis**, and **secure coding**{{< icon name="search" pack="fas" >}}
+        
+        {{< icon name="code" pack="fas" >}}We are passionate about developing innovative **web security solutions**{{< icon name="lock" pack="fas" >}}
     design:
       background:
         gradient_start: '#e6d5e6'

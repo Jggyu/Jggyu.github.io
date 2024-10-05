@@ -34,6 +34,8 @@ education:
     - course: undergraduate student in IT Information Engineering
       institution: Jeonbuk National University
       year: Current
+    - course: BCG LAB Information Security Lab
+      institution: Jeonbuk National University
 
 # Social/Academic Networking
 social:
@@ -57,6 +59,36 @@ email: 'zmfltmvl@jbnu.ac.kr'
 highlight_name: true
 ---
 
-This is Lee Jin-gyu, Class of 20, **IT Information Engineering Department, Chonbuk National University!
+# Hello, this is Jin-gyu Lee of Chonbuk National University.
 
-We are researching and studying **web hacking**, **vulnerability analysis**, and **secure coding**!
+## 🔒 Areas of expertise
+
+I am deeply fascinated by the world of **Information Security**, and am particularly focused on the following areas:
+
+- 🛡️ Secure Coding
+- 🕵️‍♂️ Web vulnerability analysis and response
+- 🔍 Penetration Testing
+
+## 🎯 Current Research Focus
+
+Currently, I am conducting research focusing on **Web Application Security**, especially *developing defense strategies against the latest attack techniques*.
+
+## 🚀 Goal
+
+1. Development of innovative web security solutions
+2. Establishment of automatic vulnerability detection system
+3. Designing an educational program to increase security awareness
+
+---
+
+> "Security is not just a technology, it is the responsibility of all of us. Based on this belief, I want to create a safer digital world."
+
+---
+
+## 💡 Recent Interests
+
+We are deeply interested in improving web security through these areas, and are actively conducting research on related topics. In particular, we have recently been expanding our research with interest in **development of security solutions using the latest technology**.
+
+## 🤝 Cooperation and growth
+
+We will continue to contribute to the development of the cybersecurity field through continuous learning and research. We always welcome opportunities to discuss and grow together!
