@@ -62,7 +62,8 @@ email: 'zmfltmvl@jbnu.ac.kr'
 highlight_name: true
 ---
 
-# Hello, this is Jin-gyu Lee of Chonbuk National University.
+# Hello, **Jeonbuk National University** Department of IT and Information Engineering
+# This is **Lee Jin-gyu**, class of 20!
 
 &nbsp;
 &nbsp;
