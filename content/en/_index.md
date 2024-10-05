@@ -103,7 +103,7 @@ sections:
   - block: collection
     content:
       title: IT Project
-      subtitle:
+      subtitle: 
       text:
       count: 5
       filters:
@@ -131,11 +131,30 @@ sections:
         exclude_featured: false
         publication_type: ''
         tag: ''
-      offset: 0
+      offset: 0 
       order: desc
       page_type: webproject
     design:
-      view: community/custom_card
+      view: community/custom_card2
+      columns: '1'
+
+  - block: collection
+    content:
+      title: WEB Project
+      subtitle:
+      text:
+      count: 5
+      filters:
+        author: ''
+        category: ''
+        exclude_featured: false
+        publication_type: ''
+        tag: ''
+      offset: 0 
+      order: desc
+      page_type: webproject
+    design:
+      view: card
       columns: '1'
   
   - block: markdown
