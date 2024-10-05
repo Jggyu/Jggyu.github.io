@@ -36,14 +36,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: c
     show_logo: true
     show_language: true
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    brand:
-      name: "{{ .Site.Title }}"
 
 
 # Site footer
