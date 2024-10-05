@@ -49,6 +49,9 @@ social:
   - icon: file-alt
     icon_pack: fab
     link: uploads/network1.pdf
+  - icon: slack
+    icon_pack: fab
+    link: https://app.slack.com/client/T07QBT8SKU6/C07QJDDSP5H?ssb_vid=.1f9d5c7b9e4a36033689fdb4584415c1
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zmfltmvl@jbnu.ac.kr'
