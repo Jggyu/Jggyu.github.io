@@ -12,10 +12,6 @@ appearance:
   font_size: L
   mode: light
   color: pink
-  dark_mode_toggler: true
-  custom_fonts:
-    - family: Noto Sans KR
-      url: 'https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap'
 
 # SEO
 
@@ -42,7 +38,7 @@ header:
     enable: true
     align: c
     show_logo: true
-    show_language: true
+    show_language: false
     show_day_night: true
     show_search: true
     highlight_active_link: true

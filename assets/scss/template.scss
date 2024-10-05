@@ -1,5 +1,3 @@
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;700&display=swap');
-
 // Make page header alignment consistent with widget page header alignment
 .universal-wrapper h1 {
   text-align: center;
@@ -8,10 +6,6 @@
 // Center the CTA shortcode button
 .cta-group {
   justify-content: center;
-}
-
-body {
-  font-family: 'Noto Sans KR', sans-serif;
 }
 
 .btn.btn-primary.px-3.py-3 {
