@@ -141,7 +141,7 @@ sections:
 
   - block: collection
     content:
-      title: WEB Project
+      title: Study
       subtitle:
       text:
       count: 5

@@ -1,5 +1,5 @@
 ---
-title: Example Event
+title: 오아시스 해커톤
 
 event: Wowchemy Conference
 event_url: https://example.org
