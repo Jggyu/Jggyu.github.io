@@ -14,6 +14,7 @@ authors:
 superuser: true
 
 tags: ["전북대학교", "웹 보안"]
+keywords: ["전북대학교", "이진규", "웹 보안"]
 
 # Role/position
 role: IT정보공학과 학부생
