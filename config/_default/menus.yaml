@@ -16,8 +16,8 @@ main:
     parent: Intro
     url: intro2
     weight: 22
-  - name: News
-    url: post
+  - name: Study
+    url: study
     weight: 30
   - name: Events
     url: event
