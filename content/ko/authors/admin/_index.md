@@ -38,7 +38,7 @@ education:
 # Social/Academic Networking
 social:
   - icon: envelope
-    icon_pack: fab
+    icon_pack: fas
     link: 'zmfltmvl@hotmail.co.kr'
   - icon: linkedin
     icon_pack: fab
@@ -47,11 +47,15 @@ social:
     icon_pack: fab
     link: https://github.com/Jggyu
   - icon: file-alt
-    icon_pack: fab
+    icon_pack: fas
     link: uploads/network1.pdf
   - icon: slack
     icon_pack: fab
-    link: https://app.slack.com/client/T07QBT8SKU6/C07QJDDSP5H?ssb_vid=.1f9d5c7b9e4a36033689fdb4584415c1
+    link: https://app.slack.com/client/T07QBT8SKU6/C07QJDDSP5H
+  - icon: blog
+    icon_pack: fab
+    link: https://velog.io/@zmfltmvl/posts
+    
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: 'zmfltmvl@jbnu.ac.kr'
