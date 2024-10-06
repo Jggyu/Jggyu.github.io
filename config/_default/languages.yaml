@@ -12,6 +12,7 @@ en:
 ko:
   languageCode: ko-kr
   contentDir: content/ko
+  title: 전북대 이진규의 웹
   weight: 2
 
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
