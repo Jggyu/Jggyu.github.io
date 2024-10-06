@@ -12,7 +12,7 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">I am currently studying IT and Information Engineering at Chonbuk National University and am deeply researching various aspects of information security!.</span>
+      text: <br><span style="font-size:125%">I am currently studying IT and Information Engineering at Chonbuk National University and am deeply researching various aspects of information security!</span>
 
   - block: slider
     content:

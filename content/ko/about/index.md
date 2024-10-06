@@ -12,7 +12,7 @@ sections:
   - block: features
     content:
       title: 
-      text: <br><span style="font-size:125%">전북대학교 IT정보공학과 재학중이며 다방면의 정보보안에 대해 깊게 연구하고 있습니다!.</span>
+      text: <br><span style="font-size:125%">전북대학교 IT정보공학과 재학중이며 다방면의 정보보안에 대해 깊게 연구하고 있습니다!</span>
 
   - block: slider
     content:
