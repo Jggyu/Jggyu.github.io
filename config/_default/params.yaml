@@ -43,9 +43,14 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-    logo:
-      text: "" 
-      filename: "logo.jpg"
+
+logo:
+  image: "logo.jpg"
+  image_dark: "logo.jpg"
+  alt_text: "My Site Logo"
+  link_to: "/"
+
+site_type: ""
 
 # Site footer
 
