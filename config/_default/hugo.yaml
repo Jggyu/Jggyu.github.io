@@ -14,7 +14,7 @@ params:
     author: admin
     type: "website"
     url: "https://nohhyeongjun.github.io/"
-    image: "logo.jpg"  # 실제 이미지 파일 경로로 수정해주세요
+    image: "icon.svg"  # 실제 이미지 파일 경로로 수정해주세요
     site_name: "Jeonbuk University LEE JIN GYU's WEB"
 
 ############################
