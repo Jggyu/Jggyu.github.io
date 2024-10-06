@@ -6,6 +6,17 @@
 title: 전북대학교 이진규 # Website name
 baseURL: 'https://jggyu.github.io' # Website URL
 
+
+params:
+  og:
+    title: "Jggyu's github website"
+    description: "전북대학교 이진규의 깃허브 웹"
+    author: admin
+    type: "website"
+    url: "https://nohhyeongjun.github.io/"
+    image: "logo.jpg"  # 실제 이미지 파일 경로로 수정해주세요
+    site_name: "Jeonbuk University LEE JIN GYU's WEB"
+
 ############################
 ## LANGUAGE
 ############################
