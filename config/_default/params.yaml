@@ -10,7 +10,7 @@ appearance:
   theme_night: dark
   font: playfair
   font_size: L
-  background: 'linear-gradient(to right, #f6d365 0%, #fda085 100%)'
+  mode: light
   color: pink
 
 # SEO
@@ -22,6 +22,7 @@ marketing:
     org_name: '전북대학교 이진규의 웹'
     description: '전북대학교 이진규의 개인 홈페이지 - 웹 보안, 취약점 분석, 시큐어 코딩 전문'
     twitter: 'GetResearchDev'
+    keywords: ['전북대학교', '이진규', '웹', '보안', '웹 개발', '취약점']
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -42,9 +43,9 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
-
-logo:
-  text: "Jggyu"
+    logo:
+      text: "" 
+      filename: "logo.jpg"
 
 # Site footer
 
@@ -77,12 +78,11 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/Jggyu/Jggyu2.github.io'
+    url: 'https://github.com/Jggyu/Jggyu.github.io'
     content_dir: content
     branch: main
   avatar:
     gravatar: false
-    size: 200px
     shape: circle
   comment:
     provider: ''
