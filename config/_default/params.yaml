@@ -43,6 +43,13 @@ header:
     show_day_night: true
     show_search: true
     highlight_active_link: true
+    logo:
+      text: ""
+      filename: "logo.png"
+    button:
+      enable: true
+      text: "ggyu"
+      url: /
 
 # Site footer
 
@@ -135,4 +142,4 @@ publications:
 
 sharing_image: "icon.png"
 
-ogImage: "logo.jpg"
+ogImage: "logo.png"
