@@ -45,8 +45,8 @@ header:
     highlight_active_link: true
 
 logo:
-  image: "logo.jpg"
-  image_dark: "logo.jpg"
+  image: logo.jpg
+  image_dark: logo.jpg
   alt_text: "My Site Logo"
   link_to: "/"
 
@@ -142,3 +142,5 @@ publications:
   citation_style: apa
 
 sharing_image: "icon.png"
+
+ogImage: "logo.jpg"
