@@ -10,7 +10,6 @@ appearance:
   theme_night: dark
   font: playfair
   font_size: L
-  mode: light
   color: pink
 
 # SEO
